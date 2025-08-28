@@ -161,7 +161,8 @@
       "registry_name": "custom_cobblestone_1",
       "metadata": {
         "files": [
-          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_1.json"
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_1.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_1.json"
         ]
       },
       "path": "~/Cobblestone"
@@ -202,6 +203,7 @@
       "registry_name": "custom_cobblestone_4",
       "metadata": {
         "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_4.json",
           "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_4.json"
         ]
       },
@@ -215,6 +217,7 @@
       "registry_name": "custom_cobblestone_5",
       "metadata": {
         "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_5.json",
           "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_5.json"
         ]
       },
@@ -228,7 +231,8 @@
       "registry_name": "custom_cobblestone_6",
       "metadata": {
         "files": [
-          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_6.json"
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_6.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_6.json"
         ]
       },
       "path": "~/Cobblestone"
@@ -241,6 +245,7 @@
       "registry_name": "custom_cobblestone_7",
       "metadata": {
         "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_7.json",
           "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_7.json"
         ]
       },
@@ -254,6 +259,7 @@
       "registry_name": "custom_cobblestone_8",
       "metadata": {
         "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_8.json",
           "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_8.json"
         ]
       },
@@ -611,6 +617,34 @@
           "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_allthesimple_core.json"
         ]
       }
+    },
+    {
+      "name": "CustomCobblestone0",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_cobblestone_0",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_0.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_0.json"
+        ]
+      },
+      "path": "~/Cobblestone"
+    },
+    {
+      "name": "CustomDiamondblock0",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_diamondblock_0",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_diamondblock_0.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_diamondblock_0.json"
+        ]
+      },
+      "path": "~/Diamondblock"
     }
   ],
   "variable_elements": [],
@@ -638,9 +672,9 @@
       "block.all_the_simple_challenges.diamondblock_7": "Compressed Diamondblock 7",
       "block.all_the_simple_challenges.diamondblock_8": "Compressed Diamondblock 8",
       "block.all_the_simple_challenges.diamondblock_9": "Compressed Diamondblock 9",
-      "item.all_the_simple_challenges.netheritenetherstar": "Netherite nether star",
       "item.all_the_simple_challenges.primary_core": "Primary Core",
-      "item.all_the_simple_challenges.allthesimple_core": "All the Simple Core"
+      "item.all_the_simple_challenges.allthesimple_core": "All the Simple Core",
+      "item.all_the_simple_challenges.netheritenetherstar": "Netherite nether star"
     }
   },
   "metadata": {
@@ -669,7 +703,7 @@
   "workspaceSettings": {
     "modid": "all_the_simple_challenges",
     "modName": "All the Simple Challenges",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A challengeable mcmod for modpack All the Simple.",
     "author": "yangyang8002",
     "websiteURL": "https://yangyang8002.xin",
