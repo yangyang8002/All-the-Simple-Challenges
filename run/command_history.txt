@@ -1,0 +1,1 @@
+/give @s all_the_simple_challenges:cobblestone_1

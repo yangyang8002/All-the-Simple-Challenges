@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "all_the_simple_challenges:cobblestone_3"
+    }
+  },
+  "result": {
+    "id": "all_the_simple_challenges:cobblestone_4",
+    "count": 1
+  }
+}

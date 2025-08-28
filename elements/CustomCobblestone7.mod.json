@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Cobblestone7"
+      },
+      {
+        "value": "CUSTOM:Cobblestone7"
+      },
+      {
+        "value": "CUSTOM:Cobblestone7"
+      },
+      {
+        "value": "CUSTOM:Cobblestone7"
+      },
+      {
+        "value": "CUSTOM:Cobblestone7"
+      },
+      {
+        "value": "CUSTOM:Cobblestone7"
+      },
+      {
+        "value": "CUSTOM:Cobblestone7"
+      },
+      {
+        "value": "CUSTOM:Cobblestone7"
+      },
+      {
+        "value": "CUSTOM:Cobblestone7"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cobblestone8"
+    },
+    "name": "custom_cobblestone_7",
+    "namespace": "mod"
+  }
+}
