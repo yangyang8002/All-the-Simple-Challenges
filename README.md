@@ -2,7 +2,7 @@
 - zh_CN [简体中文](README.zh_CN.md)
 ---
 
-All the Simple Challenges
+# All the Simple Challenges
 
 All the Simple Challenges is a Minecraft mod designed to push your survival skills to the limit. By introducing extreme-tier materials and multi-layered crafting chains, it turns the late game into a true test of patience, automation, and resource management.
 
