@@ -2,7 +2,7 @@
 - zh_CN [简体中文](README.zh_CN.md)
 ---
 
-All the Simple Challenges
+# All the Simple Challenges
 
 All the Simple Challenges是一款旨在将生存技能推向极限的Minecraft模组。通过引入极端等级的材料和多层次合成体系，它将游戏后期转化为对耐心、自动化技术与资源管理能力的终极试炼。
 
