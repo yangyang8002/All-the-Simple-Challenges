@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bbb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "all_the_simple_challenges:cobblestone_9"
+    },
+    "b": {
+      "item": "all_the_simple_challenges:primary_core"
+    }
+  },
+  "result": {
+    "id": "all_the_simple_challenges:allthesimple_core",
+    "count": 1
+  }
+}

@@ -1,1 +1,18 @@
 /give @s all_the_simple_challenges:cobblestone_1
+/time set night
+/locate biome all_the_simple_challenges:atsc_forest
+/tp @s 229 65 44
+/time set day
+/time set night
+/neoforge mods
+/locate biome all_the_simple_challenges:atsc_forest
+/tp @s 106 102 101
+/time set night
+/locate biome all_the_simple_challenges:atsc_forest
+/tp @s 120 100 105
+/otp Dev
+/tp @s 120 100 105
+/otp Dev
+/otp ~ ~ ~
+/otp 85 75 78
+/otp 72 79 84

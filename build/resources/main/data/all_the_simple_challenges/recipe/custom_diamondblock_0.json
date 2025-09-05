@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "id": "all_the_simple_challenges:diamondblock_1",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "all_the_simple_challenges:blocks/cobblestone_2",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "all_the_simple_challenges:cobblestone_2"
+        }
+      ]
+    }
+  ]
+}

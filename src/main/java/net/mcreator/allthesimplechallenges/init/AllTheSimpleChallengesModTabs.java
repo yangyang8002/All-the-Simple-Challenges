@@ -40,4 +40,10 @@ public class AllTheSimpleChallengesModTabs {
 				tabData.accept(AllTheSimpleChallengesModItems.PRIMARY_CORE.get());
 				tabData.accept(AllTheSimpleChallengesModItems.ALLTHESIMPLE_CORE.get());
 			}).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> CUSTOM_ATS_BLOCKS = REGISTRY.register("custom_ats_blocks",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.all_the_simple_challenges.custom_ats_blocks")).icon(() -> new ItemStack(AllTheSimpleChallengesModBlocks.RED_DIRT.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(AllTheSimpleChallengesModBlocks.RED_LIGHT.get().asItem());
+				tabData.accept(AllTheSimpleChallengesModBlocks.RED_DIRT.get().asItem());
+				tabData.accept(AllTheSimpleChallengesModBlocks.REDLIGHT_BLOCK.get().asItem());
+			}).withTabsBefore(CUSTOM_ATS.getId()).build());
 }

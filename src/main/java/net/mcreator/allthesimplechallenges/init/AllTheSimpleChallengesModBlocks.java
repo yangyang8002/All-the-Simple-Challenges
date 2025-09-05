@@ -8,6 +8,9 @@ import net.neoforged.neoforge.registries.DeferredBlock;
 
 import net.minecraft.world.level.block.Block;
 
+import net.mcreator.allthesimplechallenges.block.RedlightBlockBlock;
+import net.mcreator.allthesimplechallenges.block.RedLightBlock;
+import net.mcreator.allthesimplechallenges.block.RedDirtBlock;
 import net.mcreator.allthesimplechallenges.block.Diamondblock9Block;
 import net.mcreator.allthesimplechallenges.block.Diamondblock8Block;
 import net.mcreator.allthesimplechallenges.block.Diamondblock7Block;
@@ -48,6 +51,9 @@ public class AllTheSimpleChallengesModBlocks {
 	public static final DeferredBlock<Block> DIAMONDBLOCK_7 = REGISTRY.register("diamondblock_7", Diamondblock7Block::new);
 	public static final DeferredBlock<Block> DIAMONDBLOCK_8 = REGISTRY.register("diamondblock_8", Diamondblock8Block::new);
 	public static final DeferredBlock<Block> DIAMONDBLOCK_9 = REGISTRY.register("diamondblock_9", Diamondblock9Block::new);
+	public static final DeferredBlock<Block> RED_LIGHT = REGISTRY.register("red_light", RedLightBlock::new);
+	public static final DeferredBlock<Block> RED_DIRT = REGISTRY.register("red_dirt", RedDirtBlock::new);
+	public static final DeferredBlock<Block> REDLIGHT_BLOCK = REGISTRY.register("redlight_block", RedlightBlockBlock::new);
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

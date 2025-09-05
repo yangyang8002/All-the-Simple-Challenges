@@ -39,6 +39,9 @@ public class AllTheSimpleChallengesModItems {
 	public static final DeferredItem<Item> NETHERITENETHERSTAR = REGISTRY.register("netheritenetherstar", NetheritenetherstarItem::new);
 	public static final DeferredItem<Item> PRIMARY_CORE = REGISTRY.register("primary_core", PrimaryCoreItem::new);
 	public static final DeferredItem<Item> ALLTHESIMPLE_CORE = REGISTRY.register("allthesimple_core", AllthesimpleCoreItem::new);
+	public static final DeferredItem<Item> RED_LIGHT = block(AllTheSimpleChallengesModBlocks.RED_LIGHT);
+	public static final DeferredItem<Item> RED_DIRT = block(AllTheSimpleChallengesModBlocks.RED_DIRT);
+	public static final DeferredItem<Item> REDLIGHT_BLOCK = block(AllTheSimpleChallengesModBlocks.REDLIGHT_BLOCK);
 
 	// Start of user code block custom items
 	// End of user code block custom items
