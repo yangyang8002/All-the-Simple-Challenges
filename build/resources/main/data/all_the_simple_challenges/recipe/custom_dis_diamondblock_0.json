@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "all_the_simple_challenges:diamondblock_1"
+    }
+  ],
+  "result": {
+    "id": "minecraft:diamond_block",
+    "count": 9
+  }
+}

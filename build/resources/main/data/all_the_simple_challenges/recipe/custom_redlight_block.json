@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 2,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "all_the_simple_challenges:red_light"
+  },
+  "result": {
+    "id": "all_the_simple_challenges:redlight_block"
+  }
+}

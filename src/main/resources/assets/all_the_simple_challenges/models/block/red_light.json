@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "all_the_simple_challenges:block/reddirt",
+    "up": "all_the_simple_challenges:block/reddirt",
+    "north": "all_the_simple_challenges:block/redlight",
+    "east": "all_the_simple_challenges:block/redlight",
+    "south": "all_the_simple_challenges:block/redlight",
+    "west": "all_the_simple_challenges:block/redlight",
+    "particle": "all_the_simple_challenges:block/reddirt"
+  },
+  "render_type": "solid"
+}

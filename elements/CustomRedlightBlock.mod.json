@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:RedLight"
+      }
+    ],
+    "cookingBookCategory": "BLOCKS",
+    "xpReward": 2.0,
+    "cookingTime": 50,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:RedLight"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:RedlightBlock"
+    },
+    "name": "custom_redlight_block",
+    "namespace": "mod"
+  }
+}

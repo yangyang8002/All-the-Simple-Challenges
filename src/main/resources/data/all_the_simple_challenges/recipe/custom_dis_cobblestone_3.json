@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "all_the_simple_challenges:cobblestone_4"
+    }
+  ],
+  "result": {
+    "id": "all_the_simple_challenges:cobblestone_3",
+    "count": 9
+  }
+}
