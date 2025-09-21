@@ -20,31 +20,31 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Cobblestone1"
+        "value": "Blocks.COBBLESTONE"
       },
       {
-        "value": "CUSTOM:Cobblestone1"
+        "value": "Blocks.COBBLESTONE"
       },
       {
-        "value": "CUSTOM:Cobblestone1"
+        "value": "Blocks.COBBLESTONE"
       },
       {
-        "value": "CUSTOM:Cobblestone1"
+        "value": "Blocks.COBBLESTONE"
       },
       {
         "value": "Blocks.STONE#0"
       },
       {
-        "value": "CUSTOM:Cobblestone1"
+        "value": "Blocks.COBBLESTONE"
       },
       {
-        "value": "CUSTOM:Cobblestone1"
+        "value": "Blocks.COBBLESTONE"
       },
       {
-        "value": "CUSTOM:Cobblestone1"
+        "value": "Blocks.COBBLESTONE"
       },
       {
-        "value": "CUSTOM:Cobblestone1"
+        "value": "Blocks.COBBLESTONE"
       }
     ],
     "recipeReturnStack": {

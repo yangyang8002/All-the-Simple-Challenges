@@ -18,5 +18,23 @@
     },
     "done": true
   },
+  "all_the_simple_challenges:recipes/custom_cobblestone_0": {
+    "criteria": {
+      "has_ingredient_0": "2025-09-20 21:34:30 +0800"
+    },
+    "done": true
+  },
+  "all_the_simple_challenges:recipes/custom_cobblestone_1": {
+    "criteria": {
+      "has_ingredient_0": "2025-09-20 21:34:30 +0800"
+    },
+    "done": true
+  },
+  "all_the_simple_challenges:recipes/custom_dis_cobblestone_0": {
+    "criteria": {
+      "has_ingredient_0": "2025-09-20 21:34:30 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

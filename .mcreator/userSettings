@@ -4,6 +4,12 @@
   "workspacePanelSortAscending": true,
   "projectBrowserSplitPos": 280,
   "projectBrowserState": {
-    "expandedPaths": []
+    "expandedPaths": [
+      "[, All the Simple Challenges]",
+      "[, All the Simple Challenges, Resources (Gradle)]",
+      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets]",
+      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges]",
+      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\lang]"
+    ]
   }
 }
