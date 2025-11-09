@@ -1,6 +1,26 @@
 {
   "replace": false,
   "values": [
-    "all_the_simple_challenges:redlight_block"
+    "all_the_simple_challenges:rawbreadblock",
+    "all_the_simple_challenges:chorusfruitore",
+    "all_the_simple_challenges:breadore",
+    "all_the_simple_challenges:deepslatepotatoore",
+    "all_the_simple_challenges:deepslatebreadore",
+    "all_the_simple_challenges:rawcarrotblock",
+    "all_the_simple_challenges:redlight_block",
+    "all_the_simple_challenges:potatoore",
+    "all_the_simple_challenges:rawpotatoblock",
+    "all_the_simple_challenges:rawchorusfruitblock",
+    "all_the_simple_challenges:bakedbreadblock",
+    "all_the_simple_challenges:bakedpotatoblock",
+    "all_the_simple_challenges:deepslateenchantedgoldenappleore",
+    "all_the_simple_challenges:appleore",
+    "all_the_simple_challenges:rawappleblock",
+    "all_the_simple_challenges:poppedchorusfruitblock",
+    "all_the_simple_challenges:goldencarrotore",
+    "all_the_simple_challenges:deepslatecarrotore",
+    "all_the_simple_challenges:rawpoisonouspotatoblock",
+    "all_the_simple_challenges:carrotore",
+    "all_the_simple_challenges:deepslategoldencarrotore"
   ]
 }

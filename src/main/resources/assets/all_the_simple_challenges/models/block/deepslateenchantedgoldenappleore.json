@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "all_the_simple_challenges:block/deepslate_enchanted_golden_apple_ore",
+    "up": "all_the_simple_challenges:block/deepslate_enchanted_golden_apple_ore",
+    "north": "all_the_simple_challenges:block/deepslate_enchanted_golden_apple_ore",
+    "east": "all_the_simple_challenges:block/deepslate_enchanted_golden_apple_ore",
+    "south": "all_the_simple_challenges:block/deepslate_enchanted_golden_apple_ore",
+    "west": "all_the_simple_challenges:block/deepslate_enchanted_golden_apple_ore",
+    "particle": "all_the_simple_challenges:block/deepslate_enchanted_golden_apple_ore"
+  },
+  "render_type": "solid"
+}

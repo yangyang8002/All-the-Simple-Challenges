@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "all_the_simple_challenges:block/baked_bread_block",
+    "particle": "all_the_simple_challenges:block/baked_bread_block"
+  },
+  "render_type": "solid"
+}

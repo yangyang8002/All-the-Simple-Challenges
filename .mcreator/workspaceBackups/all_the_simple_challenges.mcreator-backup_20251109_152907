@@ -1,0 +1,1883 @@
+{
+  "mod_elements": [
+    {
+      "name": "Cobblestone9",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/block/cobblestone_9.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/cobblestone_9.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Cobblestone9Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/cobblestone_9.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/cobblestone_9.json"
+        ]
+      },
+      "path": "~/Cobblestone/blocks"
+    },
+    {
+      "name": "Cobblestone8",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Cobblestone8Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/cobblestone_8.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/cobblestone_8.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/cobblestone_8.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/cobblestone_8.json"
+        ]
+      },
+      "path": "~/Cobblestone/blocks"
+    },
+    {
+      "name": "Cobblestone7",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/block/cobblestone_7.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/cobblestone_7.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/cobblestone_7.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/cobblestone_7.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Cobblestone7Block.java"
+        ]
+      },
+      "path": "~/Cobblestone/blocks"
+    },
+    {
+      "name": "Cobblestone6",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/item/cobblestone_6.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/cobblestone_6.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/cobblestone_6.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Cobblestone6Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/cobblestone_6.json"
+        ]
+      },
+      "path": "~/Cobblestone/blocks"
+    },
+    {
+      "name": "Cobblestone5",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Cobblestone5Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/cobblestone_5.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/cobblestone_5.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/cobblestone_5.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/cobblestone_5.json"
+        ]
+      },
+      "path": "~/Cobblestone/blocks"
+    },
+    {
+      "name": "Cobblestone4",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/cobblestone_4.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Cobblestone4Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/cobblestone_4.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/cobblestone_4.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/cobblestone_4.json"
+        ]
+      },
+      "path": "~/Cobblestone/blocks"
+    },
+    {
+      "name": "Cobblestone3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/item/cobblestone_3.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/cobblestone_3.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/cobblestone_3.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Cobblestone3Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/cobblestone_3.json"
+        ]
+      },
+      "path": "~/Cobblestone/blocks"
+    },
+    {
+      "name": "Cobblestone2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/cobblestone_2.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/cobblestone_2.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/cobblestone_2.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Cobblestone2Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/cobblestone_2.json"
+        ]
+      },
+      "path": "~/Cobblestone/blocks"
+    },
+    {
+      "name": "Cobblestone1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/block/cobblestone_1.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Cobblestone1Block.java",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/cobblestone_1.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/cobblestone_1.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/cobblestone_1.json"
+        ]
+      },
+      "path": "~/Cobblestone/blocks"
+    },
+    {
+      "name": "CustomCobblestone1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_cobblestone_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_1.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_1.json"
+        ]
+      },
+      "path": "~/Cobblestone/synthesis"
+    },
+    {
+      "name": "CustomCobblestone2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_cobblestone_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_2.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_2.json"
+        ]
+      },
+      "path": "~/Cobblestone/synthesis"
+    },
+    {
+      "name": "CustomCobblestone3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_cobblestone_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_3.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_3.json"
+        ]
+      },
+      "path": "~/Cobblestone/synthesis"
+    },
+    {
+      "name": "CustomCobblestone4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_cobblestone_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_4.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_4.json"
+        ]
+      },
+      "path": "~/Cobblestone/synthesis"
+    },
+    {
+      "name": "CustomCobblestone5",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_cobblestone_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_5.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_5.json"
+        ]
+      },
+      "path": "~/Cobblestone/synthesis"
+    },
+    {
+      "name": "CustomCobblestone6",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_cobblestone_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_6.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_6.json"
+        ]
+      },
+      "path": "~/Cobblestone/synthesis"
+    },
+    {
+      "name": "CustomCobblestone7",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_cobblestone_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_7.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_7.json"
+        ]
+      },
+      "path": "~/Cobblestone/synthesis"
+    },
+    {
+      "name": "CustomCobblestone8",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_cobblestone_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_8.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_8.json"
+        ]
+      },
+      "path": "~/Cobblestone/synthesis"
+    },
+    {
+      "name": "CustomATS",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_ats",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Diamondblock1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondblock_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Diamondblock1Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/diamondblock_1.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/diamondblock_1.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/diamondblock_1.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/diamondblock_1.json"
+        ]
+      },
+      "path": "~/Diamondblock/blocks"
+    },
+    {
+      "name": "Diamondblock2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondblock_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/diamondblock_2.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/diamondblock_2.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Diamondblock2Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/diamondblock_2.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/diamondblock_2.json"
+        ]
+      },
+      "path": "~/Diamondblock/blocks"
+    },
+    {
+      "name": "Diamondblock3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondblock_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/diamondblock_3.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/diamondblock_3.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/diamondblock_3.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Diamondblock3Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/diamondblock_3.json"
+        ]
+      },
+      "path": "~/Diamondblock/blocks"
+    },
+    {
+      "name": "Diamondblock4",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondblock_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Diamondblock4Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/diamondblock_4.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/diamondblock_4.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/diamondblock_4.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/diamondblock_4.json"
+        ]
+      },
+      "path": "~/Diamondblock/blocks"
+    },
+    {
+      "name": "Diamondblock5",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondblock_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Diamondblock5Block.java",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/diamondblock_5.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/diamondblock_5.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/diamondblock_5.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/diamondblock_5.json"
+        ]
+      },
+      "path": "~/Diamondblock/blocks"
+    },
+    {
+      "name": "Diamondblock6",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondblock_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/diamondblock_6.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/diamondblock_6.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/diamondblock_6.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Diamondblock6Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/diamondblock_6.json"
+        ]
+      },
+      "path": "~/Diamondblock/blocks"
+    },
+    {
+      "name": "Diamondblock7",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondblock_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/block/diamondblock_7.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/diamondblock_7.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Diamondblock7Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/diamondblock_7.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/diamondblock_7.json"
+        ]
+      },
+      "path": "~/Diamondblock/blocks"
+    },
+    {
+      "name": "Diamondblock8",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondblock_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Diamondblock8Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/diamondblock_8.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/diamondblock_8.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/diamondblock_8.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/diamondblock_8.json"
+        ]
+      },
+      "path": "~/Diamondblock/blocks"
+    },
+    {
+      "name": "Diamondblock9",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondblock_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/allthesimplechallenges/block/Diamondblock9Block.java",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/diamondblock_9.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/diamondblock_9.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/diamondblock_9.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/diamondblock_9.json"
+        ]
+      },
+      "path": "~/Diamondblock/blocks"
+    },
+    {
+      "name": "CustomDiamondblock1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_diamondblock_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_diamondblock_1.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_diamondblock_1.json"
+        ]
+      },
+      "path": "~/Diamondblock/synthesis"
+    },
+    {
+      "name": "CustomDiamondblock2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_diamondblock_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_diamondblock_2.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_diamondblock_2.json"
+        ]
+      },
+      "path": "~/Diamondblock/synthesis"
+    },
+    {
+      "name": "CustomDiamondblock3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_diamondblock_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_diamondblock_3.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_diamondblock_3.json"
+        ]
+      },
+      "path": "~/Diamondblock/synthesis"
+    },
+    {
+      "name": "CustomDiamondblock4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_diamondblock_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_diamondblock_4.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_diamondblock_4.json"
+        ]
+      },
+      "path": "~/Diamondblock/synthesis"
+    },
+    {
+      "name": "CustomDiamondblock5",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_diamondblock_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_diamondblock_5.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_diamondblock_5.json"
+        ]
+      },
+      "path": "~/Diamondblock/synthesis"
+    },
+    {
+      "name": "CustomDiamondblock6",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_diamondblock_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_diamondblock_6.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_diamondblock_6.json"
+        ]
+      },
+      "path": "~/Diamondblock/synthesis"
+    },
+    {
+      "name": "CustomDiamondblock7",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_diamondblock_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_diamondblock_7.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_diamondblock_7.json"
+        ]
+      },
+      "path": "~/Diamondblock/synthesis"
+    },
+    {
+      "name": "CustomDiamondblock8",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_diamondblock_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_diamondblock_8.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_diamondblock_8.json"
+        ]
+      },
+      "path": "~/Diamondblock/synthesis"
+    },
+    {
+      "name": "Netheritenetherstar",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritenetherstar",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/allthesimplechallenges/item/NetheritenetherstarItem.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/netheritenetherstar.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "CustomNetheritenetherstar",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_netheritenetherstar",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_netheritenetherstar.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_netheritenetherstar.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "PrimaryCore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "primary_core",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/item/primary_core.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/item/PrimaryCoreItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "CustomPrimaryCore",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_primary_core",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_primary_core.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_primary_core.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "AllthesimpleCore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "allthesimple_core",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/item/allthesimple_core.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/item/AllthesimpleCoreItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "CustomAllthesimpleCore",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_allthesimple_core",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_allthesimple_core.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_allthesimple_core.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "CustomDiamondblock0",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_diamondblock_0",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_diamondblock_0.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_diamondblock_0.json"
+        ]
+      },
+      "path": "~/Diamondblock/synthesis"
+    },
+    {
+      "name": "CustomDisCobblestone0",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_cobblestone_0",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_cobblestone_0.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_cobblestone_0.json"
+        ]
+      },
+      "path": "~/Cobblestone/dismantling"
+    },
+    {
+      "name": "CustomDisCobblestone1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_cobblestone_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_cobblestone_1.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_cobblestone_1.json"
+        ]
+      },
+      "path": "~/Cobblestone/dismantling"
+    },
+    {
+      "name": "CustomDisCobblestone2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_cobblestone_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_cobblestone_2.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_cobblestone_2.json"
+        ]
+      },
+      "path": "~/Cobblestone/dismantling"
+    },
+    {
+      "name": "CustomDisCobblestone3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_cobblestone_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_cobblestone_3.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_cobblestone_3.json"
+        ]
+      },
+      "path": "~/Cobblestone/dismantling"
+    },
+    {
+      "name": "CustomDisCobblestone4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_cobblestone_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_cobblestone_4.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_cobblestone_4.json"
+        ]
+      },
+      "path": "~/Cobblestone/dismantling"
+    },
+    {
+      "name": "CustomDisCobblestone5",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_cobblestone_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_cobblestone_5.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_cobblestone_5.json"
+        ]
+      },
+      "path": "~/Cobblestone/dismantling"
+    },
+    {
+      "name": "CustomDisCobblestone6",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_cobblestone_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_cobblestone_6.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_cobblestone_6.json"
+        ]
+      },
+      "path": "~/Cobblestone/dismantling"
+    },
+    {
+      "name": "CustomDisCobblestone7",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_cobblestone_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_cobblestone_7.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_cobblestone_7.json"
+        ]
+      },
+      "path": "~/Cobblestone/dismantling"
+    },
+    {
+      "name": "CustomDisCobblestone8",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_cobblestone_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_cobblestone_8.json"
+        ]
+      },
+      "path": "~/Cobblestone/dismantling"
+    },
+    {
+      "name": "CustomDisDiamondblock0",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_diamondblock_0",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_diamondblock_0.json"
+        ]
+      },
+      "path": "~/Diamondblock/dismantling"
+    },
+    {
+      "name": "CustomDisDiamondblock1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_diamondblock_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_diamondblock_1.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_diamondblock_1.json"
+        ]
+      },
+      "path": "~/Diamondblock/dismantling"
+    },
+    {
+      "name": "CustomDisDiamondblock2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_diamondblock_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_diamondblock_2.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_diamondblock_2.json"
+        ]
+      },
+      "path": "~/Diamondblock/dismantling"
+    },
+    {
+      "name": "CustomDisDiamondblock3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_diamondblock_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_diamondblock_3.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_diamondblock_3.json"
+        ]
+      },
+      "path": "~/Diamondblock/dismantling"
+    },
+    {
+      "name": "CustomDisDiamondblock4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_diamondblock_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_diamondblock_4.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_diamondblock_4.json"
+        ]
+      },
+      "path": "~/Diamondblock/dismantling"
+    },
+    {
+      "name": "CustomDisDiamondblock5",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_diamondblock_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_diamondblock_5.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_diamondblock_5.json"
+        ]
+      },
+      "path": "~/Diamondblock/dismantling"
+    },
+    {
+      "name": "CustomDisDiamondblock6",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_diamondblock_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_diamondblock_6.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_diamondblock_6.json"
+        ]
+      },
+      "path": "~/Diamondblock/dismantling"
+    },
+    {
+      "name": "CustomDisDiamondblock7",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_diamondblock_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_diamondblock_7.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_diamondblock_7.json"
+        ]
+      },
+      "path": "~/Diamondblock/dismantling"
+    },
+    {
+      "name": "CustomDisDiamondblock8",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_dis_diamondblock_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_dis_diamondblock_8.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_dis_diamondblock_8.json"
+        ]
+      },
+      "path": "~/Diamondblock/dismantling"
+    },
+    {
+      "name": "AtscForest",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "atsc_forest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/worldgen/biome/atsc_forest.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/atsc_forest_tree.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/atsc_forest_tree.json"
+        ]
+      },
+      "path": "~/biome"
+    },
+    {
+      "name": "RedLight",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_light",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/red_light.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/red_light.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/red_light.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/red_light.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/RedLightBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/red_light.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/red_light.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/red_light_biome_modifier.json"
+        ]
+      },
+      "path": "~/biome/blocks"
+    },
+    {
+      "name": "RedDirt",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_dirt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/item/red_dirt.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/RedDirtBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/red_dirt.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/red_dirt.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/red_dirt.json"
+        ]
+      },
+      "path": "~/biome/blocks"
+    },
+    {
+      "name": "CustomATSBlocks",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_ats_blocks",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "RedlightBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redlight_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/item/redlight_block.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/redlight_block.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/redlight_block.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/RedlightBlockBlock.java",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/redlight_block.json"
+        ]
+      },
+      "path": "~/biome/blocks"
+    },
+    {
+      "name": "CustomRedlightBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_redlight_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_redlight_block.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_redlight_block.json"
+        ]
+      },
+      "path": "~/biome/blocks"
+    },
+    {
+      "name": "CustomRedstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_redstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_redstone.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_redstone.json"
+        ]
+      },
+      "path": "~/biome/blocks"
+    },
+    {
+      "name": "OTP",
+      "type": "command",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "otp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/allthesimplechallenges/command/OTPCommand.java"
+        ]
+      },
+      "path": "~/Command"
+    },
+    {
+      "name": "CustomCobblestone0",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_cobblestone_0",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_cobblestone_0.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_cobblestone_0.json"
+        ]
+      },
+      "path": "~/Cobblestone/synthesis"
+    },
+    {
+      "name": "CustomATSFood",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_ats_food",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "ThatDistantPlace",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "that_distant_place",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/painting_variant/that_distant_place.json"
+        ]
+      },
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Rawbread",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawbread",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/item/rawbread.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/item/RawbreadItem.java"
+        ]
+      },
+      "path": "~/FoodBlock/items"
+    },
+    {
+      "name": "Enchantedgoldenapplefragment",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchantedgoldenapplefragment",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/item/enchantedgoldenapplefragment.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/item/EnchantedgoldenapplefragmentItem.java"
+        ]
+      },
+      "path": "~/FoodBlock/items"
+    },
+    {
+      "name": "Deepslatebreadore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslatebreadore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/deepslatebreadore_biome_modifier.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/deepslatebreadore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/deepslatebreadore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/deepslatebreadore.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/deepslatebreadore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/deepslatebreadore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/DeepslatebreadoreBlock.java",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/deepslatebreadore.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/deepore"
+    },
+    {
+      "name": "Deepslatecarrotore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslatecarrotore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/deepslatecarrotore.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/deepslatecarrotore_biome_modifier.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/deepslatecarrotore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/deepslatecarrotore.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/deepslatecarrotore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/DeepslatecarrotoreBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/deepslatecarrotore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/deepslatecarrotore.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/deepore"
+    },
+    {
+      "name": "Deepslateenchantedgoldenappleore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslateenchantedgoldenappleore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/block/deepslateenchantedgoldenappleore.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/deepslateenchantedgoldenappleore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/deepslateenchantedgoldenappleore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/DeepslateenchantedgoldenappleoreBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/deepslateenchantedgoldenappleore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/deepslateenchantedgoldenappleore.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/deepslateenchantedgoldenappleore_biome_modifier.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/deepslateenchantedgoldenappleore.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/deepore"
+    },
+    {
+      "name": "Deepslategoldencarrotore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslategoldencarrotore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/block/deepslategoldencarrotore.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/deepslategoldencarrotore_biome_modifier.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/deepslategoldencarrotore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/deepslategoldencarrotore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/deepslategoldencarrotore.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/deepslategoldencarrotore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/DeepslategoldencarrotoreBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/deepslategoldencarrotore.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/deepore"
+    },
+    {
+      "name": "Deepslatepotatoore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslatepotatoore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/deepslatepotatoore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/DeepslatepotatooreBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/deepslatepotatoore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/deepslatepotatoore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/deepslatepotatoore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/deepslatepotatoore.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/deepslatepotatoore_biome_modifier.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/deepslatepotatoore.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/deepore"
+    },
+    {
+      "name": "Appleore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "appleore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/block/appleore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/AppleoreBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/appleore.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/appleore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/appleore.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/appleore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/appleore.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/appleore_biome_modifier.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/ore"
+    },
+    {
+      "name": "Breadore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "breadore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/breadore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/breadore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/BreadoreBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/breadore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/breadore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/breadore.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/breadore_biome_modifier.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/breadore.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/ore"
+    },
+    {
+      "name": "Carrotore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carrotore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/block/carrotore.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/carrotore_biome_modifier.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/carrotore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/CarrotoreBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/carrotore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/carrotore.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/carrotore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/carrotore.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/ore"
+    },
+    {
+      "name": "Chorusfruitore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chorusfruitore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/chorusfruitore.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/chorusfruitore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/chorusfruitore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/chorusfruitore.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/chorusfruitore_biome_modifier.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/chorusfruitore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/chorusfruitore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/ChorusfruitoreBlock.java"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/ore"
+    },
+    {
+      "name": "Goldencarrotore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldencarrotore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/item/goldencarrotore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/goldencarrotore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/GoldencarrotoreBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/goldencarrotore_biome_modifier.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/goldencarrotore.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/goldencarrotore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/goldencarrotore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/goldencarrotore.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/ore"
+    },
+    {
+      "name": "Potatoore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potatoore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/potatoore_biome_modifier.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/potatoore.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/potatoore.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/PotatooreBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/potatoore.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/potatoore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/potatoore.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/potatoore.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/ore"
+    },
+    {
+      "name": "Bakedbreadblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bakedbreadblock",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/allthesimplechallenges/block/BakedbreadblockBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/bakedbreadblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/bakedbreadblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/bakedbreadblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/bakedbreadblock.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/rawblocks"
+    },
+    {
+      "name": "Bakedpotatoblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bakedpotatoblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/bakedpotatoblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/bakedpotatoblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/bakedpotatoblock.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/BakedpotatoblockBlock.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/bakedpotatoblock.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/rawblocks"
+    },
+    {
+      "name": "Poppedchorusfruitblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poppedchorusfruitblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/item/poppedchorusfruitblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/poppedchorusfruitblock.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/poppedchorusfruitblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/poppedchorusfruitblock.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/PoppedchorusfruitblockBlock.java"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/rawblocks"
+    },
+    {
+      "name": "Rawappleblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawappleblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/rawappleblock.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/rawappleblock.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/rawappleblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/rawappleblock.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/RawappleblockBlock.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/rawappleblock.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/rawappleblock.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/rawappleblock_biome_modifier.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/rawblocks"
+    },
+    {
+      "name": "Rawbreadblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawbreadblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/rawbreadblock.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/rawbreadblock.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/rawbreadblock.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/RawbreadblockBlock.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/rawbreadblock.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/rawbreadblock_biome_modifier.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/rawbreadblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/rawbreadblock.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/rawblocks"
+    },
+    {
+      "name": "Rawcarrotblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawcarrotblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/rawcarrotblock.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/rawcarrotblock_biome_modifier.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/rawcarrotblock.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/rawcarrotblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/rawcarrotblock.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/RawcarrotblockBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/rawcarrotblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/rawcarrotblock.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/rawblocks"
+    },
+    {
+      "name": "Rawchorusfruitblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawchorusfruitblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/rawchorusfruitblock.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/RawchorusfruitblockBlock.java",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/rawchorusfruitblock.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/rawchorusfruitblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/rawchorusfruitblock.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/rawchorusfruitblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/rawchorusfruitblock.json",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/rawchorusfruitblock_biome_modifier.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/rawblocks"
+    },
+    {
+      "name": "Rawpoisonousblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawpoisonouspotatoblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/all_the_simple_challenges/models/block/rawpoisonouspotatoblock.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/rawpoisonouspotatoblock.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/RawpoisonousblockBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/rawpoisonouspotatoblock_biome_modifier.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/rawpoisonouspotatoblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/rawpoisonouspotatoblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/rawpoisonouspotatoblock.json",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/rawpoisonouspotatoblock.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/rawblocks"
+    },
+    {
+      "name": "Rawpotatoblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawpotatoblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/neoforge/biome_modifier/rawpotatoblock_biome_modifier.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/rawpotatoblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/blockstates/rawpotatoblock.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/block/RawpotatoblockBlock.java",
+          "src/main/resources/data/all_the_simple_challenges/loot_table/blocks/rawpotatoblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/block/rawpotatoblock.json",
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/rawpotatoblock.json",
+          "src/main/resources/assets/all_the_simple_challenges/models/item/rawpotatoblock.json"
+        ]
+      },
+      "path": "~/FoodBlock/blocks/rawblocks"
+    },
+    {
+      "name": "CustomRawPotatoBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_raw_potato_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_raw_potato_block.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_raw_potato_block.json"
+        ]
+      },
+      "path": "~/FoodBlock/dismantling"
+    },
+    {
+      "name": "CustomRawCarrotBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_raw_carrot_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_raw_carrot_block.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_raw_carrot_block.json"
+        ]
+      },
+      "path": "~/FoodBlock/dismantling"
+    },
+    {
+      "name": "CustomRawAppleBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_raw_apple_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_raw_apple_block.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_raw_apple_block.json"
+        ]
+      },
+      "path": "~/FoodBlock/dismantling"
+    },
+    {
+      "name": "CustomRawChorusFruitBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_raw_chorus_fruit_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_raw_chorus_fruit_block.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_raw_chorus_fruit_block.json"
+        ]
+      },
+      "path": "~/FoodBlock/dismantling"
+    },
+    {
+      "name": "CustomRawPoisonousPotatoBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_raw_poisonous_potato_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_raw_poisonous_potato_block.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_raw_poisonous_potato_block.json"
+        ]
+      },
+      "path": "~/FoodBlock/dismantling"
+    },
+    {
+      "name": "CustomRawBreadBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_raw_bread_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_raw_bread_block.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_raw_bread_block.json"
+        ]
+      },
+      "path": "~/FoodBlock/dismantling"
+    },
+    {
+      "name": "CustomBakedBreadBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_baked_bread_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_baked_bread_block.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_baked_bread_block.json"
+        ]
+      },
+      "path": "~/FoodBlock/dismantling"
+    },
+    {
+      "name": "CustomBakedPotatoBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_baked_potato_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_baked_potato_block.json",
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_baked_potato_block.json"
+        ]
+      },
+      "path": "~/FoodBlock/dismantling"
+    },
+    {
+      "name": "CustomSRawPotatoBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_s_raw_potato_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_the_simple_challenges/advancement/recipes/custom_s_raw_potato_block.json",
+          "src/main/resources/data/all_the_simple_challenges/recipe/custom_s_raw_potato_block.json"
+        ]
+      },
+      "path": "~/FoodBlock/synthsis"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BIOMES:minecraft:has_structure/swamp_hut": [
+      "~CUSTOM:AtscForest"
+    ],
+    "BIOMES:minecraft:has_structure/village_snowy": [
+      "~CUSTOM:AtscForest"
+    ],
+    "BIOMES:minecraft:has_structure/igloo": [
+      "~CUSTOM:AtscForest"
+    ],
+    "BIOMES:minecraft:has_structure/ruined_portal_standard": [
+      "~CUSTOM:AtscForest"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Rawpotatoblock",
+      "~CUSTOM:Rawpoisonousblock",
+      "~CUSTOM:Rawchorusfruitblock",
+      "~CUSTOM:Rawcarrotblock",
+      "~CUSTOM:Rawbreadblock",
+      "~CUSTOM:Rawappleblock",
+      "~CUSTOM:Poppedchorusfruitblock",
+      "~CUSTOM:Bakedpotatoblock",
+      "~CUSTOM:Bakedbreadblock",
+      "~CUSTOM:Potatoore",
+      "~CUSTOM:Goldencarrotore",
+      "~CUSTOM:Chorusfruitore",
+      "~CUSTOM:Carrotore",
+      "~CUSTOM:Breadore",
+      "~CUSTOM:Appleore",
+      "~CUSTOM:Deepslatepotatoore",
+      "~CUSTOM:Deepslategoldencarrotore",
+      "~CUSTOM:Deepslateenchantedgoldenappleore",
+      "~CUSTOM:Deepslatecarrotore",
+      "~CUSTOM:Deepslatebreadore",
+      "~CUSTOM:RedlightBlock"
+    ],
+    "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:RedlightBlock"
+    ],
+    "BLOCKS:minecraft:mineable/shovel": [
+      "~CUSTOM:RedLight"
+    ],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:Deepslateenchantedgoldenappleore"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.all_the_simple_challenges.cobblestone_9": " Compressed cobblestone 9",
+      "block.all_the_simple_challenges.cobblestone_8": " Compressed cobblestone 8",
+      "block.all_the_simple_challenges.cobblestone_7": " Compressed cobblestone 7",
+      "block.all_the_simple_challenges.cobblestone_6": " Compressed cobblestone 6",
+      "block.all_the_simple_challenges.cobblestone_5": " Compressed cobblestone 5",
+      "block.all_the_simple_challenges.cobblestone_4": " Compressed cobblestone 4",
+      "block.all_the_simple_challenges.cobblestone_3": " Compressed cobblestone 3",
+      "block.all_the_simple_challenges.cobblestone_2": " Compressed cobblestone 2",
+      "block.all_the_simple_challenges.cobblestone_1": " Compressed cobblestone 1",
+      "item_group.all_the_simple_challenges.custom_ats": "All the Simple Challenges",
+      "block.all_the_simple_challenges.diamondblock_1": "Compressed Diamondblock 1",
+      "block.all_the_simple_challenges.diamondblock_2": "Compressed Diamondblock 2",
+      "block.all_the_simple_challenges.diamondblock_3": "Compressed Diamondblock 3",
+      "block.all_the_simple_challenges.diamondblock_4": "Compressed Diamondblock 4",
+      "block.all_the_simple_challenges.diamondblock_5": "Compressed Diamondblock 5",
+      "block.all_the_simple_challenges.diamondblock_6": "Compressed Diamondblock 6",
+      "block.all_the_simple_challenges.diamondblock_7": "Compressed Diamondblock 7",
+      "block.all_the_simple_challenges.diamondblock_8": "Compressed Diamondblock 8",
+      "block.all_the_simple_challenges.diamondblock_9": "Compressed Diamondblock 9",
+      "item.all_the_simple_challenges.primary_core": "Primary Core",
+      "item.all_the_simple_challenges.allthesimple_core": "All the Simple Core",
+      "item.all_the_simple_challenges.netheritenetherstar": "Netherite nether star",
+      "biome.all_the_simple_challenges.atsc_forest": "Atsc Forest",
+      "block.all_the_simple_challenges.red_light": "Red Light",
+      "block.all_the_simple_challenges.red_dirt": "Red Dirt",
+      "item_group.all_the_simple_challenges.custom_ats_blocks": "All the Simple Challenges: Blocks",
+      "block.all_the_simple_challenges.redlight_block": "Redlight Block",
+      "item_group.all_the_simple_challenges.custom_ats_food": "All the Simple Food",
+      "painting.all_the_simple_challenges.that_distant_place.author": "yangyang8002",
+      "painting.all_the_simple_challenges.that_distant_place.title": "That Distant Place",
+      "item.all_the_simple_challenges.rawbread": "Raw bread",
+      "item.all_the_simple_challenges.enchantedgoldenapplefragment": "Enchanted golden apple fragment",
+      "block.all_the_simple_challenges.deepslatebreadore": "Deepslate bread ore",
+      "block.all_the_simple_challenges.deepslatecarrotore": "Deepslate carrot ore",
+      "block.all_the_simple_challenges.deepslateenchantedgoldenappleore": "Deepslate enchanted golden apple ore",
+      "block.all_the_simple_challenges.deepslategoldencarrotore": "Deepslate golden carrot ore",
+      "block.all_the_simple_challenges.deepslatepotatoore": "Deepslate potato ore",
+      "zh_cn": "",
+      "block.all_the_simple_challenges.appleore": "Apple ore",
+      "block.all_the_simple_challenges.breadore": "Bread ore",
+      "block.all_the_simple_challenges.carrotore": "Carrot ore",
+      "block.all_the_simple_challenges.chorusfruitore": "Chorus fruit ore",
+      "block.all_the_simple_challenges.goldencarrotore": "Golden carrot ore",
+      "block.all_the_simple_challenges.potatoore": "Potato ore",
+      "block.all_the_simple_challenges.bakedbreadblock": "Baked bread block",
+      "block.all_the_simple_challenges.bakedpotatoblock": "Baked potato block",
+      "block.all_the_simple_challenges.poppedchorusfruitblock": "Popped chorus fruit block",
+      "block.all_the_simple_challenges.rawappleblock": "Raw apple block",
+      "block.all_the_simple_challenges.rawbreadblock": "Raw bread block",
+      "block.all_the_simple_challenges.rawcarrotblock": "Raw carrot block",
+      "block.all_the_simple_challenges.rawchorusfruitblock": "Raw chorus fruit block",
+      "block.all_the_simple_challenges.rawpotatoblock": "Raw potato block",
+      "block.all_the_simple_challenges.rawpoisonouspotatoblock": "Raw poisonous potato block"
+    },
+    "zh_cn": {
+      "block.all_the_simple_challenges.cobblestone_9": " Compressed cobblestone 9",
+      "block.all_the_simple_challenges.cobblestone_8": " Compressed cobblestone 8",
+      "block.all_the_simple_challenges.cobblestone_7": " Compressed cobblestone 7",
+      "block.all_the_simple_challenges.cobblestone_6": " Compressed cobblestone 6",
+      "block.all_the_simple_challenges.cobblestone_5": " Compressed cobblestone 5",
+      "block.all_the_simple_challenges.cobblestone_4": " Compressed cobblestone 4",
+      "block.all_the_simple_challenges.cobblestone_3": " Compressed cobblestone 3",
+      "block.all_the_simple_challenges.cobblestone_2": " Compressed cobblestone 2",
+      "block.all_the_simple_challenges.cobblestone_1": " Compressed cobblestone 1",
+      "item_group.all_the_simple_challenges.custom_ats": "All the Simple Challenges",
+      "block.all_the_simple_challenges.diamondblock_1": "Compressed Diamondblock 1",
+      "block.all_the_simple_challenges.diamondblock_2": "Compressed Diamondblock 2",
+      "block.all_the_simple_challenges.diamondblock_3": "Compressed Diamondblock 3",
+      "block.all_the_simple_challenges.diamondblock_4": "Compressed Diamondblock 4",
+      "block.all_the_simple_challenges.diamondblock_5": "Compressed Diamondblock 5",
+      "block.all_the_simple_challenges.diamondblock_6": "Compressed Diamondblock 6",
+      "block.all_the_simple_challenges.diamondblock_7": "Compressed Diamondblock 7",
+      "block.all_the_simple_challenges.diamondblock_8": "Compressed Diamondblock 8",
+      "block.all_the_simple_challenges.diamondblock_9": "Compressed Diamondblock 9",
+      "item.all_the_simple_challenges.primary_core": "Primary Core",
+      "item.all_the_simple_challenges.allthesimple_core": "All the Simple Core",
+      "item.all_the_simple_challenges.netheritenetherstar": "Netherite nether star",
+      "biome.all_the_simple_challenges.atsc_forest": "Atsc Forest",
+      "block.all_the_simple_challenges.red_light": "Red Light",
+      "block.all_the_simple_challenges.red_dirt": "Red Dirt",
+      "item_group.all_the_simple_challenges.custom_ats_blocks": "All the Simple Challenges: Blocks",
+      "block.all_the_simple_challenges.redlight_block": "Redlight Block",
+      "item_group.all_the_simple_challenges.custom_ats_food": "All the Simple Food",
+      "painting.all_the_simple_challenges.that_distant_place.author": "yangyang8002",
+      "painting.all_the_simple_challenges.that_distant_place.title": "That Distant Place",
+      "item.all_the_simple_challenges.rawbread": "Raw bread",
+      "item.all_the_simple_challenges.enchantedgoldenapplefragment": "Enchanted golden apple fragment",
+      "block.all_the_simple_challenges.deepslatebreadore": "Deepslate bread ore",
+      "block.all_the_simple_challenges.deepslatecarrotore": "Deepslate carrot ore",
+      "block.all_the_simple_challenges.deepslateenchantedgoldenappleore": "Deepslate enchanted golden apple ore",
+      "block.all_the_simple_challenges.deepslategoldencarrotore": "Deepslate golden carrot ore",
+      "block.all_the_simple_challenges.deepslatepotatoore": "Deepslate carrot ore",
+      "zh_cn": "",
+      "block.all_the_simple_challenges.appleore": "Apple ore",
+      "block.all_the_simple_challenges.breadore": "Apple ore",
+      "block.all_the_simple_challenges.carrotore": "Apple ore",
+      "block.all_the_simple_challenges.chorusfruitore": "Apple ore",
+      "block.all_the_simple_challenges.goldencarrotore": "Apple ore",
+      "block.all_the_simple_challenges.potatoore": "Apple ore",
+      "block.all_the_simple_challenges.bakedbreadblock": "Bakedbreadblock",
+      "block.all_the_simple_challenges.bakedpotatoblock": "Baked potato block",
+      "block.all_the_simple_challenges.poppedchorusfruitblock": "Popped chorus fruit block",
+      "block.all_the_simple_challenges.rawappleblock": "Raw apple block",
+      "block.all_the_simple_challenges.rawbreadblock": "Raw apple block",
+      "block.all_the_simple_challenges.rawcarrotblock": "Raw apple block",
+      "block.all_the_simple_challenges.rawchorusfruitblock": "Raw apple block",
+      "block.all_the_simple_challenges.rawpotatoblock": "Raw apple block",
+      "block.all_the_simple_challenges.rawpoisonouspotatoblock": "Raw poisonous potato block"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/allthesimplechallenges/mixin/NoiseGeneratorSettingsMixin.java",
+      "src/main/java/net/mcreator/allthesimplechallenges/init/AllTheSimpleChallengesModBiomes.java",
+      "src/main/resources/data/minecraft/tags/painting_variant/placeable.json",
+      "src/main/java/net/mcreator/allthesimplechallenges/init/AllTheSimpleChallengesModBlocks.java",
+      "src/main/java/net/mcreator/allthesimplechallenges/init/AllTheSimpleChallengesModItems.java",
+      "src/main/java/net/mcreator/allthesimplechallenges/AllTheSimpleChallengesMod.java",
+      "src/main/java/net/mcreator/allthesimplechallenges/init/AllTheSimpleChallengesModTabs.java",
+      "src/main/resources/META-INF/accesstransformer.cfg",
+      "src/main/resources/all_the_simple_challenges.mixins.json",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Cobblestone",
+        "children": [
+          {
+            "name": "synthesis",
+            "children": []
+          },
+          {
+            "name": "blocks",
+            "children": []
+          },
+          {
+            "name": "dismantling",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Diamondblock",
+        "children": [
+          {
+            "name": "synthesis",
+            "children": []
+          },
+          {
+            "name": "dismantling",
+            "children": []
+          },
+          {
+            "name": "blocks",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "children": []
+      },
+      {
+        "name": "biome",
+        "children": [
+          {
+            "name": "blocks",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Command",
+        "children": []
+      },
+      {
+        "name": "FoodBlock",
+        "children": [
+          {
+            "name": "blocks",
+            "children": [
+              {
+                "name": "deepore",
+                "children": []
+              },
+              {
+                "name": "ore",
+                "children": []
+              },
+              {
+                "name": "rawblocks",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "items",
+            "children": []
+          },
+          {
+            "name": "synthsis",
+            "children": []
+          },
+          {
+            "name": "dismantling",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Paintings",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "all_the_simple_challenges",
+    "modName": "All the Simple Challenges",
+    "version": "1.1.0",
+    "description": "A challengeable mcmod for modpack All the Simple.",
+    "author": "yangyang8002",
+    "websiteURL": "https://yangyang8002.xin",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.allthesimplechallenges"
+  },
+  "mcreatorVersion": 202500344519
+}

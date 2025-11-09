@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "all_the_simple_challenges:rawpoisonouspotatoblock"
+  },
+  "result": {
+    "id": "all_the_simple_challenges:bakedpotatoblock"
+  }
+}

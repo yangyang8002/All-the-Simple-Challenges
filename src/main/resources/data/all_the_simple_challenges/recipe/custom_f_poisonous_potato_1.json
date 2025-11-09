@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 500,
+  "ingredient": {
+    "item": "minecraft:poisonous_potato"
+  },
+  "result": {
+    "id": "minecraft:baked_potato"
+  }
+}

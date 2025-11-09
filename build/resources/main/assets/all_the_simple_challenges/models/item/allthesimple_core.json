@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "all_the_simple_challenges:item/wei_biao_ti_-5"
+    "layer0": "all_the_simple_challenges:item/allthesimplecore"
   },
   "display": {
     "thirdperson_righthand": {

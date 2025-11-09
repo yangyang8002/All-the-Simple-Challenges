@@ -18,3 +18,10 @@
 /otp 72 79 84
 /otp 83 79 91
 /otp Dev
+/time set day
+/fill 321 116 18
+/fill 321 116 18 321 109 34 air
+/fill 322 112 -58
+/fill 322 112 -58 ~ ~ ~ stone
+/time set day
+/effect give @s minecraft:night_vision infinite

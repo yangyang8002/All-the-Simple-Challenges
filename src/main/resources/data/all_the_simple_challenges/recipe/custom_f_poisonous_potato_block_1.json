@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 500,
+  "ingredient": {
+    "item": "all_the_simple_challenges:rawpoisonouspotatoblock"
+  },
+  "result": {
+    "id": "all_the_simple_challenges:bakedpotatoblock"
+  }
+}

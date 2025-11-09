@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Rawpoisonousblock"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 500,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:Rawpoisonousblock"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:Bakedpotatoblock"
+    },
+    "name": "custom_f_poisonous_potato_block_1",
+    "namespace": "mod"
+  }
+}

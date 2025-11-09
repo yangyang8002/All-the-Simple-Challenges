@@ -1,13 +1,8 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "all_the_simple_challenges:block/wei_biao_ti_-2",
-    "up": "all_the_simple_challenges:block/wei_biao_ti_-2",
-    "north": "all_the_simple_challenges:block/wei_biao_ti_-2",
-    "east": "all_the_simple_challenges:block/wei_biao_ti_-2",
-    "south": "all_the_simple_challenges:block/wei_biao_ti_-2",
-    "west": "all_the_simple_challenges:block/wei_biao_ti_-2",
-    "particle": "all_the_simple_challenges:block/wei_biao_ti_-2"
+    "all": "all_the_simple_challenges:block/diamondblock",
+    "particle": "all_the_simple_challenges:block/diamondblock"
   },
   "render_type": "solid"
 }

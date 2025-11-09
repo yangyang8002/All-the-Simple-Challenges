@@ -39,13 +39,9 @@ public class AllTheSimpleChallengesMod {
 		// End of user code block mod constructor
 		NeoForge.EVENT_BUS.register(this);
 		modEventBus.addListener(this::registerNetworking);
-
 		AllTheSimpleChallengesModBlocks.REGISTRY.register(modEventBus);
-
 		AllTheSimpleChallengesModItems.REGISTRY.register(modEventBus);
-
 		AllTheSimpleChallengesModTabs.REGISTRY.register(modEventBus);
-
 		// Start of user code block mod init
 		// End of user code block mod init
 	}

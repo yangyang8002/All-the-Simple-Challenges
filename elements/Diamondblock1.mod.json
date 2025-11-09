@@ -2,14 +2,14 @@
   "_fv": 79,
   "_type": "block",
   "definition": {
-    "texture": "wei_biao_ti_-2",
-    "textureTop": "wei_biao_ti_-2",
-    "textureLeft": "wei_biao_ti_-2",
-    "textureFront": "wei_biao_ti_-2",
-    "textureRight": "wei_biao_ti_-2",
-    "textureBack": "wei_biao_ti_-2",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "texture": "diamondblock",
+    "textureTop": "diamondblock",
+    "textureLeft": "diamondblock",
+    "textureFront": "diamondblock",
+    "textureRight": "diamondblock",
+    "textureBack": "diamondblock",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "enablePitch": false,
     "emissiveRendering": false,
@@ -18,6 +18,9 @@
     "itemTexture": "",
     "particleTexture": "",
     "blockSetType": "OAK",
+    "pottedPlant": {
+      "value": ""
+    },
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -58,6 +61,8 @@
       "value": ""
     },
     "dropAmount": 1,
+    "xpAmountMin": 0,
+    "xpAmountMax": 0,
     "useLootTableForDrops": false,
     "requiresCorrectTool": false,
     "enchantPowerBonus": 0.0,
@@ -78,6 +83,9 @@
     },
     "offsetType": "NONE",
     "aiPathNodeType": "DEFAULT",
+    "strippingResult": {
+      "value": ""
+    },
     "ignitedByLava": false,
     "flammability": 0,
     "fireSpreadSpeed": 0,

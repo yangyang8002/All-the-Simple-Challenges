@@ -3,11 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "4",
+    "texture": "primarycore",
     "customModelName": "Ranged item",
     "guiTexture": "",
     "customProperties": {},
     "states": [],
+    "animations": [],
     "name": "Primary Core",
     "rarity": "EPIC",
     "creativeTabs": [
@@ -25,6 +26,7 @@
     },
     "destroyAnyBlock": true,
     "immuneToFire": true,
+    "isPiglinCurrency": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": true,

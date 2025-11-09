@@ -3,11 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "wei_biao_ti_-3",
+    "texture": "netheritenetherstar",
     "customModelName": "Normal",
     "guiTexture": "",
     "customProperties": {},
     "states": [],
+    "animations": [],
     "name": "Netherite nether star",
     "rarity": "EPIC",
     "creativeTabs": [
@@ -25,6 +26,7 @@
     },
     "destroyAnyBlock": false,
     "immuneToFire": true,
+    "isPiglinCurrency": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": true,

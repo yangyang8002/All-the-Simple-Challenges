@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "all_the_simple_challenges:block/deepslate_potato_ore",
+    "up": "all_the_simple_challenges:block/deepslate_potato_ore",
+    "north": "all_the_simple_challenges:block/deepslate_potato_ore",
+    "east": "all_the_simple_challenges:block/deepslate_potato_ore",
+    "south": "all_the_simple_challenges:block/deepslate_potato_ore",
+    "west": "all_the_simple_challenges:block/deepslate_potato_ore",
+    "particle": "all_the_simple_challenges:block/deepslate_potato_ore"
+  },
+  "render_type": "solid"
+}

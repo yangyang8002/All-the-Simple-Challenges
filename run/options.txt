@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"false"
-renderDistance:20
+renderDistance:5
 simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
@@ -75,9 +75,9 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:true
+skipMultiplayerWarning:false
 hideMatchedNames:true
-joinedFirstServer:true
+joinedFirstServer:false
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true

@@ -3,11 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "wei_biao_ti_-5",
+    "texture": "allthesimplecore",
     "customModelName": "Ranged item",
     "guiTexture": "",
     "customProperties": {},
     "states": [],
+    "animations": [],
     "name": "All the Simple Core",
     "rarity": "EPIC",
     "creativeTabs": [
@@ -25,6 +26,7 @@
     },
     "destroyAnyBlock": true,
     "immuneToFire": true,
+    "isPiglinCurrency": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": true,

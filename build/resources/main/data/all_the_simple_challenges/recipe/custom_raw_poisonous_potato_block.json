@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "all_the_simple_challenges:rawpoisonouspotatoblock"
+    }
+  ],
+  "result": {
+    "id": "minecraft:poisonous_potato",
+    "count": 9
+  }
+}

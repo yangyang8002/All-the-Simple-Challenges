@@ -4,7 +4,7 @@
   "definition": {
     "name": "All the Simple Challenges",
     "icon": {
-      "value": "Blocks.TARGET"
+      "value": "CUSTOM:AllthesimpleCore"
     },
     "showSearch": false
   }

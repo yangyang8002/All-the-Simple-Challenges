@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "Items.POISONOUS_POTATO"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "Items.POISONOUS_POTATO"
+    },
+    "smokingReturnStack": {
+      "value": "Items.BAKED_POTATO"
+    },
+    "name": "custom_f_poisonous_potato_2",
+    "namespace": "mod"
+  }
+}
