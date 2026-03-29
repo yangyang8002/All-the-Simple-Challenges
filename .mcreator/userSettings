@@ -2,7 +2,6 @@
   "workspacePanelIconSize": "TILES",
   "workspacePanelSortType": "CREATED",
   "workspacePanelSortAscending": true,
-  "projectBrowserSplitPos": 280,
   "projectBrowserState": {
     "expandedPaths": [
       "[, All the Simple Challenges]",
@@ -11,9 +10,22 @@
       "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets]",
       "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges]",
       "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\lang]",
-      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\models]",
-      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\models, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\models\\block]",
+      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\textures]",
+      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\textures, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\textures\\block]",
       "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\data]"
     ]
+  },
+  "leftDockState": {
+    "dockSizes": {
+      "project_browser": 280
+    }
+  },
+  "bottomDockState": {
+    "expandedDock": "console",
+    "dockSizes": {
+      "console": 300,
+      "code_viewer": 300,
+      "debugger": 300
+    }
   }
 }

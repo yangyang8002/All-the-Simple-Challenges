@@ -10,8 +10,8 @@
           "name": "minecraft:potato",
           "functions": [
             {
-              "count": 3,
-              "function": "minecraft:set_count"
+              "function": "minecraft:set_count",
+              "count": 3
             },
             {
               "function": "minecraft:explosion_decay"

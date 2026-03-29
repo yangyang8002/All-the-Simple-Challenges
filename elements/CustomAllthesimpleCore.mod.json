@@ -1,5 +1,5 @@
 {
-  "_fv": 79,
+  "_fv": 85,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
@@ -26,7 +26,7 @@
         "value": "CUSTOM:PrimaryCore"
       },
       {
-        "value": "CUSTOM:Cobblestone9"
+        "value": "CUSTOM:Diamondblock6"
       },
       {
         "value": "CUSTOM:PrimaryCore"
@@ -38,13 +38,13 @@
         "value": "CUSTOM:PrimaryCore"
       },
       {
-        "value": "CUSTOM:Cobblestone9"
+        "value": "CUSTOM:Diamondblock6"
       },
       {
         "value": "CUSTOM:PrimaryCore"
       },
       {
-        "value": "CUSTOM:Cobblestone9"
+        "value": "CUSTOM:Netheritenetherstar"
       }
     ],
     "recipeReturnStack": {

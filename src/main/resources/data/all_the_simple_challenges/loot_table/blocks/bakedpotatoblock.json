@@ -10,8 +10,8 @@
           "name": "minecraft:baked_potato",
           "functions": [
             {
-              "count": 9,
-              "function": "minecraft:set_count"
+              "function": "minecraft:set_count",
+              "count": 9
             },
             {
               "function": "minecraft:explosion_decay"

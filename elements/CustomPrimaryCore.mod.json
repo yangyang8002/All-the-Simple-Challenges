@@ -1,5 +1,5 @@
 {
-  "_fv": 79,
+  "_fv": 85,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
@@ -7,10 +7,16 @@
     "group": "",
     "unlockingItems": [
       {
-        "value": "CUSTOM:Diamondblock9"
+        "value": "CUSTOM:Netheritenetherstar"
       },
       {
-        "value": "CUSTOM:Netheritenetherstar"
+        "value": "CUSTOM:Diamondblock3"
+      },
+      {
+        "value": "Blocks.EMERALD_ORE"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_COAL_ORE"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -20,31 +26,31 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Diamondblock9"
+        "value": "CUSTOM:Cobblestone5"
       },
       {
         "value": "CUSTOM:Netheritenetherstar"
       },
       {
-        "value": "CUSTOM:Diamondblock9"
+        "value": "CUSTOM:Diamondblock3"
       },
       {
         "value": "CUSTOM:Netheritenetherstar"
       },
       {
-        "value": "CUSTOM:Netheritenetherstar"
+        "value": "Blocks.DEEPSLATE_COAL_ORE"
       },
       {
         "value": "CUSTOM:Netheritenetherstar"
       },
       {
-        "value": "CUSTOM:Diamondblock9"
+        "value": "CUSTOM:Diamondblock3"
       },
       {
         "value": "CUSTOM:Netheritenetherstar"
       },
       {
-        "value": "CUSTOM:Diamondblock9"
+        "value": "Blocks.EMERALD_ORE"
       }
     ],
     "recipeReturnStack": {

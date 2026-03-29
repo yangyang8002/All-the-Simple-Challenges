@@ -2045,7 +2045,7 @@
   "workspaceSettings": {
     "modid": "all_the_simple_challenges",
     "modName": "All the Simple Challenges",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "A challengeable mcmod for modpack All the Simple.",
     "author": "yangyang8002",
     "websiteURL": "https://yangyang8002.xin",
@@ -2060,5 +2060,5 @@
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.allthesimplechallenges"
   },
-  "mcreatorVersion": 202500344519
+  "mcreatorVersion": 202600113616
 }

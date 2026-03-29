@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "aba",
+    "abc",
     "bbb",
-    "aba"
+    "cbd"
   ],
   "key": {
     "a": {
@@ -12,6 +12,12 @@
     },
     "b": {
       "item": "all_the_simple_challenges:primary_core"
+    },
+    "c": {
+      "item": "all_the_simple_challenges:diamondblock_6"
+    },
+    "d": {
+      "item": "all_the_simple_challenges:netheritenetherstar"
     }
   },
   "result": {
