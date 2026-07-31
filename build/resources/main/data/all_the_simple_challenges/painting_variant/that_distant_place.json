@@ -1,5 +1,13 @@
 {
   "asset_id": "all_the_simple_challenges:that_distant_place",
   "height": 8,
-  "width": 16
+  "width": 16,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.all_the_simple_challenges.that_distant_place.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.all_the_simple_challenges.that_distant_place.author"
+  }
 }

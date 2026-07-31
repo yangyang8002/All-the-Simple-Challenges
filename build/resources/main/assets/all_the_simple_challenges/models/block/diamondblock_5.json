@@ -3,6 +3,5 @@
   "textures": {
     "all": "all_the_simple_challenges:block/diamondblock",
     "particle": "all_the_simple_challenges:block/diamondblock"
-  },
-  "render_type": "solid"
+  }
 }

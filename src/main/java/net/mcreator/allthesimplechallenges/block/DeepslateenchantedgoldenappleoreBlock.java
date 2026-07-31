@@ -12,8 +12,8 @@ import net.minecraft.util.Mth;
 import net.minecraft.core.BlockPos;
 
 public class DeepslateenchantedgoldenappleoreBlock extends Block {
-	public DeepslateenchantedgoldenappleoreBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.DEEPSLATE).strength(3f, 6f).requiresCorrectToolForDrops());
+	public DeepslateenchantedgoldenappleoreBlock(BlockBehaviour.Properties properties) {
+		super(properties.sound(SoundType.DEEPSLATE).strength(3f, 6f).requiresCorrectToolForDrops());
 	}
 
 	@Override

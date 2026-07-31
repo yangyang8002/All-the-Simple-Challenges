@@ -12,8 +12,8 @@ import net.minecraft.util.Mth;
 import net.minecraft.core.BlockPos;
 
 public class DeepslategoldencarrotoreBlock extends Block {
-	public DeepslategoldencarrotoreBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.DEEPSLATE).strength(3f, 6f));
+	public DeepslategoldencarrotoreBlock(BlockBehaviour.Properties properties) {
+		super(properties.sound(SoundType.DEEPSLATE).strength(3f, 6f));
 	}
 
 	@Override

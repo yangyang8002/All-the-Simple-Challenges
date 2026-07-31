@@ -8,6 +8,5 @@
     "south": "all_the_simple_challenges:block/deepslate_golden_carrot_ore",
     "west": "all_the_simple_challenges:block/deepslate_golden_carrot_ore",
     "particle": "all_the_simple_challenges:block/deepslate_golden_carrot_ore"
-  },
-  "render_type": "solid"
+  }
 }

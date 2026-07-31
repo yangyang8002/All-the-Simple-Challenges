@@ -7,12 +7,8 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:cobblestone"
-    },
-    "b": {
-      "item": "minecraft:stone"
-    }
+    "a": "minecraft:cobblestone",
+    "b": "minecraft:stone"
   },
   "result": {
     "id": "all_the_simple_challenges:cobblestone_1",

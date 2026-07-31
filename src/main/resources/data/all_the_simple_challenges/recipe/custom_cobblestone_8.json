@@ -7,9 +7,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "all_the_simple_challenges:cobblestone_8"
-    }
+    "a": "all_the_simple_challenges:cobblestone_8"
   },
   "result": {
     "id": "all_the_simple_challenges:cobblestone_9",

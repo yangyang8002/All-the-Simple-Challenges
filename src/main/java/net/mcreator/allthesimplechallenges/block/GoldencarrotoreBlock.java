@@ -11,8 +11,8 @@ import net.minecraft.util.Mth;
 import net.minecraft.core.BlockPos;
 
 public class GoldencarrotoreBlock extends Block {
-	public GoldencarrotoreBlock() {
-		super(BlockBehaviour.Properties.of().strength(1f, 3f));
+	public GoldencarrotoreBlock(BlockBehaviour.Properties properties) {
+		super(properties.strength(1f, 3f));
 	}
 
 	@Override

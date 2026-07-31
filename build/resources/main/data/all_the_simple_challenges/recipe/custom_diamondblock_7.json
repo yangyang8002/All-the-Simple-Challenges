@@ -7,9 +7,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "all_the_simple_challenges:diamondblock_7"
-    }
+    "a": "all_the_simple_challenges:diamondblock_7"
   },
   "result": {
     "id": "all_the_simple_challenges:diamondblock_8",

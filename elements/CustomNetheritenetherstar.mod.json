@@ -1,17 +1,13 @@
 {
-  "_fv": 85,
+  "_fv": 89,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
     "recipeRetstackSize": 1,
     "group": "",
     "unlockingItems": [
-      {
-        "value": "Blocks.NETHERITE_BLOCK"
-      },
-      {
-        "value": "Items.NETHER_STAR"
-      }
+      "Blocks.NETHERITE_BLOCK",
+      "Items.NETHER_STAR"
     ],
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -19,37 +15,17 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "recipeSlots": [
-      {
-        "value": "Blocks.NETHERITE_BLOCK"
-      },
-      {
-        "value": "Blocks.NETHERITE_BLOCK"
-      },
-      {
-        "value": "Blocks.NETHERITE_BLOCK"
-      },
-      {
-        "value": "Blocks.NETHERITE_BLOCK"
-      },
-      {
-        "value": "Items.NETHER_STAR"
-      },
-      {
-        "value": "Blocks.NETHERITE_BLOCK"
-      },
-      {
-        "value": "Blocks.NETHERITE_BLOCK"
-      },
-      {
-        "value": "Blocks.NETHERITE_BLOCK"
-      },
-      {
-        "value": "Blocks.NETHERITE_BLOCK"
-      }
+      "Blocks.NETHERITE_BLOCK",
+      "Blocks.NETHERITE_BLOCK",
+      "Blocks.NETHERITE_BLOCK",
+      "Blocks.NETHERITE_BLOCK",
+      "Items.NETHER_STAR",
+      "Blocks.NETHERITE_BLOCK",
+      "Blocks.NETHERITE_BLOCK",
+      "Blocks.NETHERITE_BLOCK",
+      "Blocks.NETHERITE_BLOCK"
     ],
-    "recipeReturnStack": {
-      "value": "CUSTOM:Netheritenetherstar"
-    },
+    "recipeReturnStack": "CUSTOM:Netheritenetherstar",
     "name": "custom_netheritenetherstar",
     "namespace": "mod"
   }

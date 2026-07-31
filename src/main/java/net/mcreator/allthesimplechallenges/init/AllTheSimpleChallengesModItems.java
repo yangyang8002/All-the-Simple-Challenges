@@ -19,6 +19,8 @@ import net.mcreator.allthesimplechallenges.item.EnchantedgoldenapplefragmentItem
 import net.mcreator.allthesimplechallenges.item.AllthesimpleCoreItem;
 import net.mcreator.allthesimplechallenges.AllTheSimpleChallengesMod;
 
+import java.util.function.Function;
+
 public class AllTheSimpleChallengesModItems {
 	public static final DeferredRegister.Items REGISTRY = DeferredRegister.createItems(AllTheSimpleChallengesMod.MODID);
 	public static final DeferredItem<Item> COBBLESTONE_9;
@@ -86,14 +88,14 @@ public class AllTheSimpleChallengesModItems {
 		DIAMONDBLOCK_7 = block(AllTheSimpleChallengesModBlocks.DIAMONDBLOCK_7);
 		DIAMONDBLOCK_8 = block(AllTheSimpleChallengesModBlocks.DIAMONDBLOCK_8);
 		DIAMONDBLOCK_9 = block(AllTheSimpleChallengesModBlocks.DIAMONDBLOCK_9);
-		NETHERITENETHERSTAR = REGISTRY.register("netheritenetherstar", NetheritenetherstarItem::new);
-		PRIMARY_CORE = REGISTRY.register("primary_core", PrimaryCoreItem::new);
-		ALLTHESIMPLE_CORE = REGISTRY.register("allthesimple_core", AllthesimpleCoreItem::new);
+		NETHERITENETHERSTAR = register("netheritenetherstar", NetheritenetherstarItem::new);
+		PRIMARY_CORE = register("primary_core", PrimaryCoreItem::new);
+		ALLTHESIMPLE_CORE = register("allthesimple_core", AllthesimpleCoreItem::new);
 		RED_LIGHT = block(AllTheSimpleChallengesModBlocks.RED_LIGHT);
 		RED_DIRT = block(AllTheSimpleChallengesModBlocks.RED_DIRT);
 		REDLIGHT_BLOCK = block(AllTheSimpleChallengesModBlocks.REDLIGHT_BLOCK);
-		RAWBREAD = REGISTRY.register("rawbread", RawbreadItem::new);
-		ENCHANTEDGOLDENAPPLEFRAGMENT = REGISTRY.register("enchantedgoldenapplefragment", EnchantedgoldenapplefragmentItem::new);
+		RAWBREAD = register("rawbread", RawbreadItem::new);
+		ENCHANTEDGOLDENAPPLEFRAGMENT = register("enchantedgoldenapplefragment", EnchantedgoldenapplefragmentItem::new);
 		DEEPSLATEBREADORE = block(AllTheSimpleChallengesModBlocks.DEEPSLATEBREADORE);
 		DEEPSLATECARROTORE = block(AllTheSimpleChallengesModBlocks.DEEPSLATECARROTORE);
 		DEEPSLATEENCHANTEDGOLDENAPPLEORE = block(AllTheSimpleChallengesModBlocks.DEEPSLATEENCHANTEDGOLDENAPPLEORE, new Item.Properties().rarity(Rarity.RARE));
@@ -118,11 +120,15 @@ public class AllTheSimpleChallengesModItems {
 
 	// Start of user code block custom items
 	// End of user code block custom items
+	private static <I extends Item> DeferredItem<I> register(String name, Function<Item.Properties, ? extends I> supplier) {
+		return REGISTRY.registerItem(name, supplier, Item.Properties::new);
+	}
+
 	private static DeferredItem<Item> block(DeferredHolder<Block, Block> block) {
 		return block(block, new Item.Properties());
 	}
 
 	private static DeferredItem<Item> block(DeferredHolder<Block, Block> block, Item.Properties properties) {
-		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), properties));
+		return REGISTRY.registerItem(block.getId().getPath(), prop -> new BlockItem(block.get(), prop), () -> properties);
 	}
 }

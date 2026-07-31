@@ -1,23 +1,15 @@
 {
-  "_fv": 85,
+  "_fv": 89,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
     "recipeRetstackSize": 1,
     "group": "",
     "unlockingItems": [
-      {
-        "value": "CUSTOM:Netheritenetherstar"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "Blocks.EMERALD_ORE"
-      },
-      {
-        "value": "Blocks.DEEPSLATE_COAL_ORE"
-      }
+      "CUSTOM:Netheritenetherstar",
+      "CUSTOM:Diamondblock3",
+      "Blocks.EMERALD_ORE",
+      "Blocks.DEEPSLATE_COAL_ORE"
     ],
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -25,37 +17,17 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "recipeSlots": [
-      {
-        "value": "CUSTOM:Cobblestone5"
-      },
-      {
-        "value": "CUSTOM:Netheritenetherstar"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "CUSTOM:Netheritenetherstar"
-      },
-      {
-        "value": "Blocks.DEEPSLATE_COAL_ORE"
-      },
-      {
-        "value": "CUSTOM:Netheritenetherstar"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "CUSTOM:Netheritenetherstar"
-      },
-      {
-        "value": "Blocks.EMERALD_ORE"
-      }
+      "CUSTOM:Cobblestone5",
+      "CUSTOM:Netheritenetherstar",
+      "CUSTOM:Diamondblock3",
+      "CUSTOM:Netheritenetherstar",
+      "Blocks.DEEPSLATE_COAL_ORE",
+      "CUSTOM:Netheritenetherstar",
+      "CUSTOM:Diamondblock3",
+      "CUSTOM:Netheritenetherstar",
+      "Blocks.EMERALD_ORE"
     ],
-    "recipeReturnStack": {
-      "value": "CUSTOM:PrimaryCore"
-    },
+    "recipeReturnStack": "CUSTOM:PrimaryCore",
     "name": "custom_primary_core",
     "namespace": "mod"
   }

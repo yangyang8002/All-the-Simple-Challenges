@@ -8,6 +8,5 @@
     "south": "all_the_simple_challenges:block/redlight",
     "west": "all_the_simple_challenges:block/redlight",
     "particle": "all_the_simple_challenges:block/redlight"
-  },
-  "render_type": "solid"
+  }
 }

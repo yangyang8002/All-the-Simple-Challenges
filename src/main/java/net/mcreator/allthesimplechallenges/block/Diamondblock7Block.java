@@ -5,7 +5,7 @@ import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.Block;
 
 public class Diamondblock7Block extends Block {
-	public Diamondblock7Block() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.METAL).strength(5f, 20f));
+	public Diamondblock7Block(BlockBehaviour.Properties properties) {
+		super(properties.sound(SoundType.METAL).strength(5f, 20f));
 	}
 }

@@ -8,6 +8,5 @@
     "south": "all_the_simple_challenges:block/reddirt",
     "west": "all_the_simple_challenges:block/reddirt",
     "particle": "all_the_simple_challenges:block/reddirt"
-  },
-  "render_type": "solid"
+  }
 }

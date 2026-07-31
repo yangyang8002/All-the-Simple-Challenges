@@ -6,22 +6,26 @@
     "expandedPaths": [
       "[, All the Simple Challenges]",
       "[, All the Simple Challenges, Source (Gradle)]",
+      "[, All the Simple Challenges, Source (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\java\\net]",
+      "[, All the Simple Challenges, Source (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\java\\net, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\java\\net\\mcreator]",
+      "[, All the Simple Challenges, Source (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\java\\net, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\java\\net\\mcreator, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\java\\net\\mcreator\\allthesimplechallenges]",
       "[, All the Simple Challenges, Resources (Gradle)]",
-      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets]",
-      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges]",
-      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\lang]",
-      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\textures]",
-      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\textures, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\assets\\all_the_simple_challenges\\textures\\block]",
-      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges\\src\\main\\resources\\data]"
+      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\resources\\data]",
+      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\resources\\data, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\resources\\data\\all_the_simple_challenges]",
+      "[, All the Simple Challenges, Resources (Gradle), C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\resources\\data, C:\\Users\\yangyang\\MCreatorWorkspaces\\all_the_simple_challenges26.1.2\\src\\main\\resources\\data\\minecraft]"
     ]
   },
   "leftDockState": {
+    "expandedDock": "project_browser",
     "dockSizes": {
-      "project_browser": 280
+      "project_browser": 280,
+      "local_history": 280
     }
   },
+  "rightDockState": {
+    "dockSizes": {}
+  },
   "bottomDockState": {
-    "expandedDock": "console",
     "dockSizes": {
       "console": 300,
       "code_viewer": 300,

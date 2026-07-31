@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "all_the_simple_challenges:bakedpotatoblock"
-    }
+    "all_the_simple_challenges:bakedpotatoblock"
   ],
   "result": {
     "id": "minecraft:baked_potato",

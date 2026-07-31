@@ -5,7 +5,7 @@ import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.Block;
 
 public class DeepslatecarrotoreBlock extends Block {
-	public DeepslatecarrotoreBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.DEEPSLATE).strength(3f, 6f));
+	public DeepslatecarrotoreBlock(BlockBehaviour.Properties properties) {
+		super(properties.sound(SoundType.DEEPSLATE).strength(3f, 6f));
 	}
 }

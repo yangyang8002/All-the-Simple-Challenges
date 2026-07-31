@@ -8,6 +8,5 @@
     "south": "all_the_simple_challenges:block/cobblestone1",
     "west": "all_the_simple_challenges:block/cobblestone1",
     "particle": "all_the_simple_challenges:block/cobblestone1"
-  },
-  "render_type": "solid"
+  }
 }

@@ -3,9 +3,7 @@
   "category": "misc",
   "experience": 1,
   "cookingtime": 20,
-  "ingredient": {
-    "item": "all_the_simple_challenges:rawbreadblock"
-  },
+  "ingredient": "all_the_simple_challenges:rawbreadblock",
   "result": {
     "id": "all_the_simple_challenges:bakedbreadblock"
   }

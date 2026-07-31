@@ -4,7 +4,7 @@ import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.Block;
 
 public class Cobblestone2Block extends Block {
-	public Cobblestone2Block() {
-		super(BlockBehaviour.Properties.of().strength(1f, 20f));
+	public Cobblestone2Block(BlockBehaviour.Properties properties) {
+		super(properties.strength(1f, 20f));
 	}
 }

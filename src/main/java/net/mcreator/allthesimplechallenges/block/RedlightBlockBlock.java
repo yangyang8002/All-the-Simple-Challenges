@@ -1,7 +1,5 @@
 package net.mcreator.allthesimplechallenges.block;
 
-import org.checkerframework.checker.units.qual.s;
-
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.SoundType;
@@ -13,15 +11,20 @@ import net.minecraft.core.BlockPos;
 import com.mojang.serialization.MapCodec;
 
 public class RedlightBlockBlock extends FallingBlock {
-	public static final MapCodec<RedlightBlockBlock> CODEC = simpleCodec(properties -> new RedlightBlockBlock());
+	public static final MapCodec<RedlightBlockBlock> CODEC = simpleCodec(RedlightBlockBlock::new);
 
+	@Override
 	public MapCodec<RedlightBlockBlock> codec() {
 		return CODEC;
 	}
 
-	public RedlightBlockBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.GLASS).strength(3f, 10f).lightLevel(s -> 10).requiresCorrectToolForDrops().friction(1f).speedFactor(1.3f).jumpFactor(1.1f).hasPostProcess((bs, br, bp) -> true)
-				.emissiveRendering((bs, br, bp) -> true));
+	@Override
+	public int getDustColor(BlockState blockstate, BlockGetter world, BlockPos pos) {
+		return blockstate.getMapColor(world, pos).col;
+	}
+
+	public RedlightBlockBlock(BlockBehaviour.Properties properties) {
+		super(properties.sound(SoundType.GLASS).strength(3f, 10f).lightLevel(blockstate -> 10).requiresCorrectToolForDrops().friction(1f).speedFactor(1.3f).jumpFactor(1.1f).postProcess((bs, br, bp) -> bp).emissiveRendering((bs, br, bp) -> true));
 	}
 
 	@Override

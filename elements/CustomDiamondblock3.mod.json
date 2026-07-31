@@ -1,14 +1,12 @@
 {
-  "_fv": 85,
+  "_fv": 89,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
     "recipeRetstackSize": 1,
     "group": "",
     "unlockingItems": [
-      {
-        "value": "CUSTOM:Diamondblock3"
-      }
+      "CUSTOM:Diamondblock3"
     ],
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -16,37 +14,17 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "recipeSlots": [
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      },
-      {
-        "value": "CUSTOM:Diamondblock3"
-      }
+      "CUSTOM:Diamondblock3",
+      "CUSTOM:Diamondblock3",
+      "CUSTOM:Diamondblock3",
+      "CUSTOM:Diamondblock3",
+      "CUSTOM:Diamondblock3",
+      "CUSTOM:Diamondblock3",
+      "CUSTOM:Diamondblock3",
+      "CUSTOM:Diamondblock3",
+      "CUSTOM:Diamondblock3"
     ],
-    "recipeReturnStack": {
-      "value": "CUSTOM:Diamondblock4"
-    },
+    "recipeReturnStack": "CUSTOM:Diamondblock4",
     "name": "custom_diamondblock_3",
     "namespace": "mod"
   }

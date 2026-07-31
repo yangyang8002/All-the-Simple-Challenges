@@ -1,7 +1,5 @@
 package net.mcreator.allthesimplechallenges.block;
 
-import org.checkerframework.checker.units.qual.s;
-
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.SoundType;
@@ -16,8 +14,8 @@ import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 
 public class RedLightBlock extends Block implements BonemealableBlock {
-	public RedLightBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.GLASS).strength(2f, 10f).lightLevel(s -> 2).friction(0.8f).speedFactor(0.9f).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true));
+	public RedLightBlock(BlockBehaviour.Properties properties) {
+		super(properties.sound(SoundType.GLASS).strength(2f, 10f).lightLevel(blockstate -> 2).friction(0.8f).speedFactor(0.9f).postProcess((bs, br, bp) -> bp).emissiveRendering((bs, br, bp) -> true));
 	}
 
 	@Override

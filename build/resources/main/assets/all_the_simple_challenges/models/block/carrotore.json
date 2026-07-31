@@ -3,6 +3,5 @@
   "textures": {
     "all": "all_the_simple_challenges:block/carrot_ore",
     "particle": "all_the_simple_challenges:block/carrot_ore"
-  },
-  "render_type": "solid"
+  }
 }

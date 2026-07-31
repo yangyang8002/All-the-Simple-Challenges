@@ -7,12 +7,8 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:netherite_block"
-    },
-    "b": {
-      "item": "minecraft:nether_star"
-    }
+    "a": "minecraft:netherite_block",
+    "b": "minecraft:nether_star"
   },
   "result": {
     "id": "all_the_simple_challenges:netheritenetherstar",

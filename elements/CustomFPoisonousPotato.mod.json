@@ -1,26 +1,20 @@
 {
-  "_fv": 85,
+  "_fv": 89,
   "_type": "recipe",
   "definition": {
     "recipeType": "Smelting",
     "recipeRetstackSize": 1,
     "group": "",
     "unlockingItems": [
-      {
-        "value": "Items.POISONOUS_POTATO"
-      }
+      "Items.POISONOUS_POTATO"
     ],
     "cookingBookCategory": "MISC",
     "xpReward": 1.0,
     "cookingTime": 400,
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
-    "smeltingInputStack": {
-      "value": "Items.POISONOUS_POTATO"
-    },
-    "smeltingReturnStack": {
-      "value": "Items.BAKED_POTATO"
-    },
+    "smeltingInputStack": "Items.POISONOUS_POTATO",
+    "smeltingReturnStack": "Items.BAKED_POTATO",
     "name": "custom_f_poisonous_potato",
     "namespace": "mod"
   }

@@ -3,6 +3,5 @@
   "textures": {
     "all": "all_the_simple_challenges:block/chorus_fruit_ore",
     "particle": "all_the_simple_challenges:block/chorus_fruit_ore"
-  },
-  "render_type": "solid"
+  }
 }

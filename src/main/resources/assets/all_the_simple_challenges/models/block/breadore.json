@@ -3,6 +3,5 @@
   "textures": {
     "all": "all_the_simple_challenges:block/bread_ore",
     "particle": "all_the_simple_challenges:block/bread_ore"
-  },
-  "render_type": "solid"
+  }
 }

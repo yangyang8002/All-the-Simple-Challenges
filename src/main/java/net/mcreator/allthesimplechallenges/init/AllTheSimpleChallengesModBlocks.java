@@ -6,10 +6,13 @@ package net.mcreator.allthesimplechallenges.init;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredBlock;
 
+import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.Block;
 
 import net.mcreator.allthesimplechallenges.block.*;
 import net.mcreator.allthesimplechallenges.AllTheSimpleChallengesMod;
+
+import java.util.function.Function;
 
 public class AllTheSimpleChallengesModBlocks {
 	public static final DeferredRegister.Blocks REGISTRY = DeferredRegister.createBlocks(AllTheSimpleChallengesMod.MODID);
@@ -55,48 +58,52 @@ public class AllTheSimpleChallengesModBlocks {
 	public static final DeferredBlock<Block> RAWPOISONOUSPOTATOBLOCK;
 	public static final DeferredBlock<Block> RAWPOTATOBLOCK;
 	static {
-		COBBLESTONE_9 = REGISTRY.register("cobblestone_9", Cobblestone9Block::new);
-		COBBLESTONE_8 = REGISTRY.register("cobblestone_8", Cobblestone8Block::new);
-		COBBLESTONE_7 = REGISTRY.register("cobblestone_7", Cobblestone7Block::new);
-		COBBLESTONE_6 = REGISTRY.register("cobblestone_6", Cobblestone6Block::new);
-		COBBLESTONE_5 = REGISTRY.register("cobblestone_5", Cobblestone5Block::new);
-		COBBLESTONE_4 = REGISTRY.register("cobblestone_4", Cobblestone4Block::new);
-		COBBLESTONE_3 = REGISTRY.register("cobblestone_3", Cobblestone3Block::new);
-		COBBLESTONE_2 = REGISTRY.register("cobblestone_2", Cobblestone2Block::new);
-		COBBLESTONE_1 = REGISTRY.register("cobblestone_1", Cobblestone1Block::new);
-		DIAMONDBLOCK_1 = REGISTRY.register("diamondblock_1", Diamondblock1Block::new);
-		DIAMONDBLOCK_2 = REGISTRY.register("diamondblock_2", Diamondblock2Block::new);
-		DIAMONDBLOCK_3 = REGISTRY.register("diamondblock_3", Diamondblock3Block::new);
-		DIAMONDBLOCK_4 = REGISTRY.register("diamondblock_4", Diamondblock4Block::new);
-		DIAMONDBLOCK_5 = REGISTRY.register("diamondblock_5", Diamondblock5Block::new);
-		DIAMONDBLOCK_6 = REGISTRY.register("diamondblock_6", Diamondblock6Block::new);
-		DIAMONDBLOCK_7 = REGISTRY.register("diamondblock_7", Diamondblock7Block::new);
-		DIAMONDBLOCK_8 = REGISTRY.register("diamondblock_8", Diamondblock8Block::new);
-		DIAMONDBLOCK_9 = REGISTRY.register("diamondblock_9", Diamondblock9Block::new);
-		RED_LIGHT = REGISTRY.register("red_light", RedLightBlock::new);
-		RED_DIRT = REGISTRY.register("red_dirt", RedDirtBlock::new);
-		REDLIGHT_BLOCK = REGISTRY.register("redlight_block", RedlightBlockBlock::new);
-		DEEPSLATEBREADORE = REGISTRY.register("deepslatebreadore", DeepslatebreadoreBlock::new);
-		DEEPSLATECARROTORE = REGISTRY.register("deepslatecarrotore", DeepslatecarrotoreBlock::new);
-		DEEPSLATEENCHANTEDGOLDENAPPLEORE = REGISTRY.register("deepslateenchantedgoldenappleore", DeepslateenchantedgoldenappleoreBlock::new);
-		DEEPSLATEGOLDENCARROTORE = REGISTRY.register("deepslategoldencarrotore", DeepslategoldencarrotoreBlock::new);
-		DEEPSLATEPOTATOORE = REGISTRY.register("deepslatepotatoore", DeepslatepotatooreBlock::new);
-		APPLEORE = REGISTRY.register("appleore", AppleoreBlock::new);
-		BREADORE = REGISTRY.register("breadore", BreadoreBlock::new);
-		CARROTORE = REGISTRY.register("carrotore", CarrotoreBlock::new);
-		CHORUSFRUITORE = REGISTRY.register("chorusfruitore", ChorusfruitoreBlock::new);
-		GOLDENCARROTORE = REGISTRY.register("goldencarrotore", GoldencarrotoreBlock::new);
-		POTATOORE = REGISTRY.register("potatoore", PotatooreBlock::new);
-		BAKEDBREADBLOCK = REGISTRY.register("bakedbreadblock", BakedbreadblockBlock::new);
-		BAKEDPOTATOBLOCK = REGISTRY.register("bakedpotatoblock", BakedpotatoblockBlock::new);
-		POPPEDCHORUSFRUITBLOCK = REGISTRY.register("poppedchorusfruitblock", PoppedchorusfruitblockBlock::new);
-		RAWAPPLEBLOCK = REGISTRY.register("rawappleblock", RawappleblockBlock::new);
-		RAWBREADBLOCK = REGISTRY.register("rawbreadblock", RawbreadblockBlock::new);
-		RAWCARROTBLOCK = REGISTRY.register("rawcarrotblock", RawcarrotblockBlock::new);
-		RAWCHORUSFRUITBLOCK = REGISTRY.register("rawchorusfruitblock", RawchorusfruitblockBlock::new);
-		RAWPOISONOUSPOTATOBLOCK = REGISTRY.register("rawpoisonouspotatoblock", RawpoisonousblockBlock::new);
-		RAWPOTATOBLOCK = REGISTRY.register("rawpotatoblock", RawpotatoblockBlock::new);
+		COBBLESTONE_9 = register("cobblestone_9", Cobblestone9Block::new);
+		COBBLESTONE_8 = register("cobblestone_8", Cobblestone8Block::new);
+		COBBLESTONE_7 = register("cobblestone_7", Cobblestone7Block::new);
+		COBBLESTONE_6 = register("cobblestone_6", Cobblestone6Block::new);
+		COBBLESTONE_5 = register("cobblestone_5", Cobblestone5Block::new);
+		COBBLESTONE_4 = register("cobblestone_4", Cobblestone4Block::new);
+		COBBLESTONE_3 = register("cobblestone_3", Cobblestone3Block::new);
+		COBBLESTONE_2 = register("cobblestone_2", Cobblestone2Block::new);
+		COBBLESTONE_1 = register("cobblestone_1", Cobblestone1Block::new);
+		DIAMONDBLOCK_1 = register("diamondblock_1", Diamondblock1Block::new);
+		DIAMONDBLOCK_2 = register("diamondblock_2", Diamondblock2Block::new);
+		DIAMONDBLOCK_3 = register("diamondblock_3", Diamondblock3Block::new);
+		DIAMONDBLOCK_4 = register("diamondblock_4", Diamondblock4Block::new);
+		DIAMONDBLOCK_5 = register("diamondblock_5", Diamondblock5Block::new);
+		DIAMONDBLOCK_6 = register("diamondblock_6", Diamondblock6Block::new);
+		DIAMONDBLOCK_7 = register("diamondblock_7", Diamondblock7Block::new);
+		DIAMONDBLOCK_8 = register("diamondblock_8", Diamondblock8Block::new);
+		DIAMONDBLOCK_9 = register("diamondblock_9", Diamondblock9Block::new);
+		RED_LIGHT = register("red_light", RedLightBlock::new);
+		RED_DIRT = register("red_dirt", RedDirtBlock::new);
+		REDLIGHT_BLOCK = register("redlight_block", RedlightBlockBlock::new);
+		DEEPSLATEBREADORE = register("deepslatebreadore", DeepslatebreadoreBlock::new);
+		DEEPSLATECARROTORE = register("deepslatecarrotore", DeepslatecarrotoreBlock::new);
+		DEEPSLATEENCHANTEDGOLDENAPPLEORE = register("deepslateenchantedgoldenappleore", DeepslateenchantedgoldenappleoreBlock::new);
+		DEEPSLATEGOLDENCARROTORE = register("deepslategoldencarrotore", DeepslategoldencarrotoreBlock::new);
+		DEEPSLATEPOTATOORE = register("deepslatepotatoore", DeepslatepotatooreBlock::new);
+		APPLEORE = register("appleore", AppleoreBlock::new);
+		BREADORE = register("breadore", BreadoreBlock::new);
+		CARROTORE = register("carrotore", CarrotoreBlock::new);
+		CHORUSFRUITORE = register("chorusfruitore", ChorusfruitoreBlock::new);
+		GOLDENCARROTORE = register("goldencarrotore", GoldencarrotoreBlock::new);
+		POTATOORE = register("potatoore", PotatooreBlock::new);
+		BAKEDBREADBLOCK = register("bakedbreadblock", BakedbreadblockBlock::new);
+		BAKEDPOTATOBLOCK = register("bakedpotatoblock", BakedpotatoblockBlock::new);
+		POPPEDCHORUSFRUITBLOCK = register("poppedchorusfruitblock", PoppedchorusfruitblockBlock::new);
+		RAWAPPLEBLOCK = register("rawappleblock", RawappleblockBlock::new);
+		RAWBREADBLOCK = register("rawbreadblock", RawbreadblockBlock::new);
+		RAWCARROTBLOCK = register("rawcarrotblock", RawcarrotblockBlock::new);
+		RAWCHORUSFRUITBLOCK = register("rawchorusfruitblock", RawchorusfruitblockBlock::new);
+		RAWPOISONOUSPOTATOBLOCK = register("rawpoisonouspotatoblock", RawpoisonousblockBlock::new);
+		RAWPOTATOBLOCK = register("rawpotatoblock", RawpotatoblockBlock::new);
 	}
+
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
+	private static <B extends Block> DeferredBlock<B> register(String name, Function<BlockBehaviour.Properties, ? extends B> supplier) {
+		return REGISTRY.registerBlock(name, supplier);
+	}
 }

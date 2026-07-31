@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "all_the_simple_challenges:cobblestone_8"
-    }
+    "all_the_simple_challenges:cobblestone_8"
   ],
   "result": {
     "id": "all_the_simple_challenges:cobblestone_7",

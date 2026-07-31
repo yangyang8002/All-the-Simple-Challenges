@@ -8,6 +8,5 @@
     "south": "all_the_simple_challenges:block/deepslate_enchanted_golden_apple_ore",
     "west": "all_the_simple_challenges:block/deepslate_enchanted_golden_apple_ore",
     "particle": "all_the_simple_challenges:block/deepslate_enchanted_golden_apple_ore"
-  },
-  "render_type": "solid"
+  }
 }

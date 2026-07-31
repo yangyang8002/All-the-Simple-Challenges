@@ -3,6 +3,5 @@
   "textures": {
     "all": "all_the_simple_challenges:block/raw_carrot_block",
     "particle": "all_the_simple_challenges:block/raw_carrot_block"
-  },
-  "render_type": "solid"
+  }
 }

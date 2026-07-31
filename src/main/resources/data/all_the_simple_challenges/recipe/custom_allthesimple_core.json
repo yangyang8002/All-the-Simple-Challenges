@@ -7,18 +7,10 @@
     "cbd"
   ],
   "key": {
-    "a": {
-      "item": "all_the_simple_challenges:cobblestone_9"
-    },
-    "b": {
-      "item": "all_the_simple_challenges:primary_core"
-    },
-    "c": {
-      "item": "all_the_simple_challenges:diamondblock_6"
-    },
-    "d": {
-      "item": "all_the_simple_challenges:netheritenetherstar"
-    }
+    "a": "all_the_simple_challenges:cobblestone_9",
+    "b": "all_the_simple_challenges:primary_core",
+    "c": "all_the_simple_challenges:diamondblock_6",
+    "d": "all_the_simple_challenges:netheritenetherstar"
   },
   "result": {
     "id": "all_the_simple_challenges:allthesimple_core",

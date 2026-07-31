@@ -1,14 +1,12 @@
 {
-  "_fv": 85,
+  "_fv": 89,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
     "recipeRetstackSize": 1,
     "group": "",
     "unlockingItems": [
-      {
-        "value": "Items.POTATO"
-      }
+      "Items.POTATO"
     ],
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -16,37 +14,17 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": true,
     "recipeSlots": [
-      {
-        "value": "Items.POTATO"
-      },
-      {
-        "value": "Items.POTATO"
-      },
-      {
-        "value": "Items.POTATO"
-      },
-      {
-        "value": "Items.POTATO"
-      },
-      {
-        "value": "Items.POTATO"
-      },
-      {
-        "value": "Items.POTATO"
-      },
-      {
-        "value": "Items.POTATO"
-      },
-      {
-        "value": "Items.POTATO"
-      },
-      {
-        "value": "Items.POTATO"
-      }
+      "Items.POTATO",
+      "Items.POTATO",
+      "Items.POTATO",
+      "Items.POTATO",
+      "Items.POTATO",
+      "Items.POTATO",
+      "Items.POTATO",
+      "Items.POTATO",
+      "Items.POTATO"
     ],
-    "recipeReturnStack": {
-      "value": "CUSTOM:Rawpotatoblock"
-    },
+    "recipeReturnStack": "CUSTOM:Rawpotatoblock",
     "name": "custom_s_raw_potato_block",
     "namespace": "mod"
   }

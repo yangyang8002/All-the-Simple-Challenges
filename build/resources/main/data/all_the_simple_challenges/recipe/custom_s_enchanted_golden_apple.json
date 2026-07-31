@@ -2,33 +2,15 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "all_the_simple_challenges:enchantedgoldenapplefragment"
-    },
-    {
-      "item": "all_the_simple_challenges:enchantedgoldenapplefragment"
-    },
-    {
-      "item": "all_the_simple_challenges:enchantedgoldenapplefragment"
-    },
-    {
-      "item": "all_the_simple_challenges:enchantedgoldenapplefragment"
-    },
-    {
-      "item": "all_the_simple_challenges:enchantedgoldenapplefragment"
-    },
-    {
-      "item": "all_the_simple_challenges:enchantedgoldenapplefragment"
-    },
-    {
-      "item": "all_the_simple_challenges:enchantedgoldenapplefragment"
-    },
-    {
-      "item": "all_the_simple_challenges:enchantedgoldenapplefragment"
-    },
-    {
-      "item": "all_the_simple_challenges:enchantedgoldenapplefragment"
-    }
+    "all_the_simple_challenges:enchantedgoldenapplefragment",
+    "all_the_simple_challenges:enchantedgoldenapplefragment",
+    "all_the_simple_challenges:enchantedgoldenapplefragment",
+    "all_the_simple_challenges:enchantedgoldenapplefragment",
+    "all_the_simple_challenges:enchantedgoldenapplefragment",
+    "all_the_simple_challenges:enchantedgoldenapplefragment",
+    "all_the_simple_challenges:enchantedgoldenapplefragment",
+    "all_the_simple_challenges:enchantedgoldenapplefragment",
+    "all_the_simple_challenges:enchantedgoldenapplefragment"
   ],
   "result": {
     "id": "minecraft:enchanted_golden_apple",
