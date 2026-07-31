@@ -3,7 +3,8 @@
   "package": "net.mcreator.allthesimplechallenges.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "NoiseGeneratorSettingsMixin"
+    "NoiseGeneratorSettingsMixin",
+    "BiomeSourcePresetMixin"
   ],
   "client": [],
   "injectors": {

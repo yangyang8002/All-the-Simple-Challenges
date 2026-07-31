@@ -1,7 +1,5 @@
 package net.mcreator.allthesimplechallenges.block;
 
-import org.checkerframework.checker.units.qual.s;
-
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.SoundType;
@@ -20,7 +18,7 @@ public class RedlightBlockBlock extends FallingBlock {
 	}
 
 	public RedlightBlockBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.GLASS).strength(3f, 10f).lightLevel(s -> 10).requiresCorrectToolForDrops().friction(1f).speedFactor(1.3f).jumpFactor(1.1f).hasPostProcess((bs, br, bp) -> true)
+		super(BlockBehaviour.Properties.of().sound(SoundType.GLASS).strength(3f, 10f).lightLevel(blockstate -> 10).requiresCorrectToolForDrops().friction(1f).speedFactor(1.3f).jumpFactor(1.1f).hasPostProcess((bs, br, bp) -> true)
 				.emissiveRendering((bs, br, bp) -> true));
 	}
 

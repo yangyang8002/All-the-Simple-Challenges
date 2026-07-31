@@ -898,7 +898,8 @@
         "files": [
           "src/main/resources/data/all_the_simple_challenges/worldgen/biome/atsc_forest.json",
           "src/main/resources/data/all_the_simple_challenges/worldgen/placed_feature/atsc_forest_tree.json",
-          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/atsc_forest_tree.json"
+          "src/main/resources/data/all_the_simple_challenges/worldgen/configured_feature/atsc_forest_tree.json",
+          "src/main/java/net/mcreator/allthesimplechallenges/mixin/BiomeSourcePresetMixin.java"
         ]
       },
       "path": "~/biome"
@@ -1776,49 +1777,52 @@
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {
+    "BIOMES:minecraft:has_structure/igloo": [
+      "~AtscForest@CUSTOM:AtscForest"
+    ],
     "BIOMES:minecraft:has_structure/swamp_hut": [
-      "~CUSTOM:AtscForest"
+      "~AtscForest@CUSTOM:AtscForest"
     ],
     "BIOMES:minecraft:has_structure/village_snowy": [
-      "~CUSTOM:AtscForest"
-    ],
-    "BIOMES:minecraft:has_structure/igloo": [
-      "~CUSTOM:AtscForest"
+      "~AtscForest@CUSTOM:AtscForest"
     ],
     "BIOMES:minecraft:has_structure/ruined_portal_standard": [
-      "~CUSTOM:AtscForest"
-    ],
-    "BLOCKS:minecraft:mineable/pickaxe": [
-      "~CUSTOM:Rawpotatoblock",
-      "~CUSTOM:Rawpoisonousblock",
-      "~CUSTOM:Rawchorusfruitblock",
-      "~CUSTOM:Rawcarrotblock",
-      "~CUSTOM:Rawbreadblock",
-      "~CUSTOM:Rawappleblock",
-      "~CUSTOM:Poppedchorusfruitblock",
-      "~CUSTOM:Bakedpotatoblock",
-      "~CUSTOM:Bakedbreadblock",
-      "~CUSTOM:Potatoore",
-      "~CUSTOM:Goldencarrotore",
-      "~CUSTOM:Chorusfruitore",
-      "~CUSTOM:Carrotore",
-      "~CUSTOM:Breadore",
-      "~CUSTOM:Appleore",
-      "~CUSTOM:Deepslatepotatoore",
-      "~CUSTOM:Deepslategoldencarrotore",
-      "~CUSTOM:Deepslateenchantedgoldenappleore",
-      "~CUSTOM:Deepslatecarrotore",
-      "~CUSTOM:Deepslatebreadore",
-      "~CUSTOM:RedlightBlock"
-    ],
-    "BLOCKS:minecraft:needs_stone_tool": [
-      "~CUSTOM:RedlightBlock"
+      "~AtscForest@CUSTOM:AtscForest"
     ],
     "BLOCKS:minecraft:mineable/shovel": [
-      "~CUSTOM:RedLight"
+      "~RedLight@CUSTOM:RedLight"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~Deepslatepotatoore@CUSTOM:Deepslatepotatoore",
+      "~Deepslategoldencarrotore@CUSTOM:Deepslategoldencarrotore",
+      "~Deepslateenchantedgoldenappleore@CUSTOM:Deepslateenchantedgoldenappleore",
+      "~Deepslatecarrotore@CUSTOM:Deepslatecarrotore",
+      "~Deepslatebreadore@CUSTOM:Deepslatebreadore",
+      "~Rawpotatoblock@CUSTOM:Rawpotatoblock",
+      "~Rawpoisonousblock@CUSTOM:Rawpoisonousblock",
+      "~Rawchorusfruitblock@CUSTOM:Rawchorusfruitblock",
+      "~Rawcarrotblock@CUSTOM:Rawcarrotblock",
+      "~Rawbreadblock@CUSTOM:Rawbreadblock",
+      "~Carrotore@CUSTOM:Carrotore",
+      "~Appleore@CUSTOM:Appleore",
+      "~Goldencarrotore@CUSTOM:Goldencarrotore",
+      "~Chorusfruitore@CUSTOM:Chorusfruitore",
+      "~Breadore@CUSTOM:Breadore",
+      "~Rawappleblock@CUSTOM:Rawappleblock",
+      "~Poppedchorusfruitblock@CUSTOM:Poppedchorusfruitblock",
+      "~Bakedpotatoblock@CUSTOM:Bakedpotatoblock",
+      "~Bakedbreadblock@CUSTOM:Bakedbreadblock",
+      "~Potatoore@CUSTOM:Potatoore",
+      "~RedlightBlock@CUSTOM:RedlightBlock"
+    ],
+    "BLOCKS:minecraft:needs_stone_tool": [
+      "~RedlightBlock@CUSTOM:RedlightBlock"
+    ],
+    "PAINTING_VARIANTS:minecraft:placeable": [
+      "~ThatDistantPlace@CUSTOM:ThatDistantPlace"
     ],
     "BLOCKS:minecraft:needs_iron_tool": [
-      "~CUSTOM:Deepslateenchantedgoldenappleore"
+      "~Deepslateenchantedgoldenappleore@CUSTOM:Deepslateenchantedgoldenappleore"
     ]
   },
   "tab_element_order": {},
@@ -1937,7 +1941,6 @@
     "files": [
       "src/main/java/net/mcreator/allthesimplechallenges/mixin/NoiseGeneratorSettingsMixin.java",
       "src/main/java/net/mcreator/allthesimplechallenges/init/AllTheSimpleChallengesModBiomes.java",
-      "src/main/resources/data/minecraft/tags/painting_variant/placeable.json",
       "src/main/java/net/mcreator/allthesimplechallenges/init/AllTheSimpleChallengesModBlocks.java",
       "src/main/java/net/mcreator/allthesimplechallenges/init/AllTheSimpleChallengesModItems.java",
       "src/main/java/net/mcreator/allthesimplechallenges/AllTheSimpleChallengesMod.java",
@@ -2045,7 +2048,7 @@
   "workspaceSettings": {
     "modid": "all_the_simple_challenges",
     "modName": "All the Simple Challenges",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "A challengeable mcmod for modpack All the Simple.",
     "author": "yangyang8002",
     "websiteURL": "https://yangyang8002.xin",
@@ -2060,5 +2063,5 @@
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.allthesimplechallenges"
   },
-  "mcreatorVersion": 202600113616
+  "mcreatorVersion": 202600230420
 }

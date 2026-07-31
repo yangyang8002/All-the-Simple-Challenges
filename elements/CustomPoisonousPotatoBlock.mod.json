@@ -1,14 +1,12 @@
 {
-  "_fv": 85,
+  "_fv": 89,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
     "recipeRetstackSize": 1,
     "group": "",
     "unlockingItems": [
-      {
-        "value": "Items.POISONOUS_POTATO"
-      }
+      "Items.POISONOUS_POTATO"
     ],
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -16,37 +14,17 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": true,
     "recipeSlots": [
-      {
-        "value": "Items.POISONOUS_POTATO"
-      },
-      {
-        "value": "Items.POISONOUS_POTATO"
-      },
-      {
-        "value": "Items.POISONOUS_POTATO"
-      },
-      {
-        "value": "Items.POISONOUS_POTATO"
-      },
-      {
-        "value": "Items.POISONOUS_POTATO"
-      },
-      {
-        "value": "Items.POISONOUS_POTATO"
-      },
-      {
-        "value": "Items.POISONOUS_POTATO"
-      },
-      {
-        "value": "Items.POISONOUS_POTATO"
-      },
-      {
-        "value": "Items.POISONOUS_POTATO"
-      }
+      "Items.POISONOUS_POTATO",
+      "Items.POISONOUS_POTATO",
+      "Items.POISONOUS_POTATO",
+      "Items.POISONOUS_POTATO",
+      "Items.POISONOUS_POTATO",
+      "Items.POISONOUS_POTATO",
+      "Items.POISONOUS_POTATO",
+      "Items.POISONOUS_POTATO",
+      "Items.POISONOUS_POTATO"
     ],
-    "recipeReturnStack": {
-      "value": "CUSTOM:Rawpoisonousblock"
-    },
+    "recipeReturnStack": "CUSTOM:Rawpoisonousblock",
     "name": "custom_poisonous_potato_block",
     "namespace": "mod"
   }
